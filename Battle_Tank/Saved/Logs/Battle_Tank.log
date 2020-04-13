@@ -1210,3 +1210,1306 @@ LogInit: Object subsystem initialized
 [2020.04.13-08.49.10:721][366]LogSavePackage: Save=49.99ms
 [2020.04.13-08.49.10:722][366]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP27B9D84342AA305BF4BD80A00778EAAF.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
 [2020.04.13-08.49.10:726][366]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-08.50.45:760][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-08.52.25:080][425]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-08.52.25:116][425]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.13-08.52.25:121][425]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2020.04.13-08.52.25:126][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186b2c3d300, Size=348
+[2020.04.13-08.52.25:126][425]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186b2c3d300, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_177:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.52.25:129][425]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f07cdd80, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.52.25:742][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186b2c3d300, Size=348
+[2020.04.13-08.52.25:743][425]LogPlayLevel: PlayLevel: Blueprint regeneration took 627 ms (1 blueprints)
+[2020.04.13-08.52.25:743][425]PIE: New page: PIE session: Battleground (Apr 13, 2020, 10:52:25 AM)
+[2020.04.13-08.52.25:743][425]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-08.52.25:828][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085359s)
+[2020.04.13-08.52.25:829][425]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-08.52.25:830][425]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2020.04.13-08.52.25:830][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.086677s)
+[2020.04.13-08.52.25:918][425]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-08.52.25:935][425]LogInit: FAudioDevice initialized.
+[2020.04.13-08.52.25:970][425]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-08.52.25:973][425]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-09.52.25
+[2020.04.13-08.52.25:974][425]LogWorld: Bringing up level for play took: 0.002899
+[2020.04.13-08.52.25:976][425]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.717
+[2020.04.13-08.52.40:932][924]LogEditorTransaction: Undo Reset Rotation
+[2020.04.13-08.52.41:712][ 14]LogEditorTransaction: Undo Edit Target Arm Length
+[2020.04.13-08.52.42:164][ 66]LogEditorTransaction: Undo Reset Location
+[2020.04.13-08.53.51:079][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-08.54.15:127][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-08.54.15:185][165]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-08.54.15:198][165]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f07cdd80, Size=348
+[2020.04.13-08.54.15:198][165]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f3ebd000, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_181:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.54.15:202][165]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018700e65f00, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.54.18:739][416]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-08.54.18:787][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-08.54.18:788][416]PIE: New page: PIE session: Battleground (Apr 13, 2020, 10:54:18 AM)
+[2020.04.13-08.54.18:788][416]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-08.54.18:910][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122553s)
+[2020.04.13-08.54.18:912][416]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-08.54.18:912][416]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2020.04.13-08.54.18:912][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.124187s)
+[2020.04.13-08.54.18:942][416]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f3ebd000, Size=348
+[2020.04.13-08.54.19:011][416]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-08.54.19:027][416]LogInit: FAudioDevice initialized.
+[2020.04.13-08.54.19:063][416]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-08.54.19:067][416]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-09.54.19
+[2020.04.13-08.54.19:067][416]LogWorld: Bringing up level for play took: 0.003863
+[2020.04.13-08.54.19:070][416]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.189
+[2020.04.13-08.54.28:101][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-08.54.29:684][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-08.54.29:743][535]LogSavePackage: Save=42.04ms
+[2020.04.13-08.54.29:743][535]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP8B24FAA84A92A0B9F75EA5BB5E1C22B5.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-08.54.29:748][535]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-08.54.46:914][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-08.55.04:124][805]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f0586d88, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.56.04:273][260]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f0586d88, Size=4
+[2020.04.13-08.56.04:273][260]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f0586d88, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_185:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.56.04:276][260]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f0586bd8, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.56.33:673][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-08.56.35:424][825]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-08.56.35:458][825]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.13-08.56.35:464][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f0586bd8, Size=4
+[2020.04.13-08.56.35:464][825]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f0586bd8, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_187:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.56.35:464][825]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2020.04.13-08.56.35:470][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018700e65f00, Size=348
+[2020.04.13-08.56.35:470][825]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018629303b80, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_189:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.56.35:474][825]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186b2b53b80, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.56.36:216][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f0586bd8, Size=4
+[2020.04.13-08.56.36:217][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f0586d88, Size=4
+[2020.04.13-08.56.36:230][825]LogPlayLevel: PlayLevel: Blueprint regeneration took 773 ms (1 blueprints)
+[2020.04.13-08.56.36:230][825]PIE: New page: PIE session: Battleground (Apr 13, 2020, 10:56:36 AM)
+[2020.04.13-08.56.36:231][825]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-08.56.36:321][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090707s)
+[2020.04.13-08.56.36:323][825]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-08.56.36:323][825]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2020.04.13-08.56.36:323][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.092718s)
+[2020.04.13-08.56.36:420][825]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-08.56.36:433][825]LogInit: FAudioDevice initialized.
+[2020.04.13-08.56.36:468][825]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-08.56.36:472][825]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-09.56.36
+[2020.04.13-08.56.36:472][825]LogWorld: Bringing up level for play took: 0.003439
+[2020.04.13-08.56.36:474][825]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 1.215
+[2020.04.13-08.56.49:220][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-08.57.23:565][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-08.57.45:633][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-08.57.47:069][975]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-08.57.47:103][975]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.13-08.57.47:109][975]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2020.04.13-08.57.47:114][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186b2b53b80, Size=348
+[2020.04.13-08.57.47:115][975]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186bd630d00, Size=348, Tank_BP_C_20274 Function /Engine/Transient.REINST_Tank_BP_C_193:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.57.47:118][975]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186b3173700, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.57.47:828][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186bd630d00, Size=348
+[2020.04.13-08.57.47:829][975]LogPlayLevel: PlayLevel: Blueprint regeneration took 725 ms (1 blueprints)
+[2020.04.13-08.57.47:829][975]PIE: New page: PIE session: Battleground (Apr 13, 2020, 10:57:47 AM)
+[2020.04.13-08.57.47:829][975]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-08.57.47:904][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074949s)
+[2020.04.13-08.57.47:905][975]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-08.57.47:905][975]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2020.04.13-08.57.47:905][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.076340s)
+[2020.04.13-08.57.48:000][975]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-08.57.48:012][975]LogInit: FAudioDevice initialized.
+[2020.04.13-08.57.48:051][975]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-08.57.48:055][975]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-09.57.48
+[2020.04.13-08.57.48:055][975]LogWorld: Bringing up level for play took: 0.003205
+[2020.04.13-08.57.48:057][975]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.798
+[2020.04.13-08.57.56:799][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-08.58.27:498][489]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-08.58.27:509][489]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186b3173700, Size=348
+[2020.04.13-08.58.27:509][489]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f0762980, Size=348, Tank_BP_C_20716 Function /Engine/Transient.REINST_Tank_BP_C_197:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.58.27:512][489]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f95e7e80, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-08.58.29:818][629]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-08.58.29:853][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-08.58.29:853][629]PIE: New page: PIE session: Battleground (Apr 13, 2020, 10:58:29 AM)
+[2020.04.13-08.58.29:853][629]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-08.58.29:939][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085310s)
+[2020.04.13-08.58.29:939][629]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-08.58.29:940][629]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2020.04.13-08.58.29:940][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.086358s)
+[2020.04.13-08.58.29:967][629]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f0762980, Size=348
+[2020.04.13-08.58.30:026][629]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-08.58.30:041][629]LogInit: FAudioDevice initialized.
+[2020.04.13-08.58.30:074][629]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-08.58.30:078][629]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-09.58.30
+[2020.04.13-08.58.30:078][629]LogWorld: Bringing up level for play took: 0.003101
+[2020.04.13-08.58.30:080][629]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.821
+[2020.04.13-08.58.38:073][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-08.59.41:333][590]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-08.59.41:373][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-08.59.41:373][590]PIE: New page: PIE session: Battleground (Apr 13, 2020, 10:59:41 AM)
+[2020.04.13-08.59.41:374][590]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-08.59.41:456][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081982s)
+[2020.04.13-08.59.41:457][590]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-08.59.41:457][590]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2020.04.13-08.59.41:457][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.083363s)
+[2020.04.13-08.59.41:554][590]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-08.59.41:567][590]LogInit: FAudioDevice initialized.
+[2020.04.13-08.59.41:604][590]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-08.59.41:608][590]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-09.59.41
+[2020.04.13-08.59.41:608][590]LogWorld: Bringing up level for play took: 0.003614
+[2020.04.13-08.59.41:610][590]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.351
+[2020.04.13-09.00.15:059][932]LogUObjectGlobals: Created PersistentFrame Addr=0x000001863b837548, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.00.16:214][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001863b837548, Size=4
+[2020.04.13-09.00.16:214][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x000001863b837548, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_201:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.00.16:216][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x000001863b834080, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.00.16:919][137]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001863b834080, Size=4
+[2020.04.13-09.00.16:919][137]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186c6eeeaf8, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_203:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.00.16:921][137]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186c6eedfd0, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.00.46:944][641]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186c6eedfd0, Size=4
+[2020.04.13-09.00.46:945][641]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186c6eedfd0, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_205:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.00.46:946][641]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186c6eefa60, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.00.57:749][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186c6eefa60, Size=4
+[2020.04.13-09.00.57:749][873]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186c6eefa60, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_207:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.00.57:751][873]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186c6eeffb0, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.01.36:054][350]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.01.36:060][350]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186c6eeffb0, Size=4
+[2020.04.13-09.01.36:060][350]LogUObjectGlobals: Created PersistentFrame Addr=0x000001863b835948, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_209:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.01.36:067][350]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f95e7e80, Size=348
+[2020.04.13-09.01.36:067][350]LogUObjectGlobals: Created PersistentFrame Addr=0x000001860e9c0d00, Size=348, Tank_BP_C_20945 Function /Engine/Transient.REINST_Tank_BP_C_211:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.01.36:070][350]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018684376c80, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.01.36:698][350]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186c6eedfd0, Size=4
+[2020.04.13-09.01.36:699][350]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001863b835948, Size=4
+[2020.04.13-09.01.36:699][350]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186c6eefa60, Size=4
+[2020.04.13-09.01.36:699][350]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186c6eeeaf8, Size=4
+[2020.04.13-09.01.36:699][350]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001863b837548, Size=4
+[2020.04.13-09.01.39:656][645]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.01.39:696][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.01.39:696][645]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:01:39 AM)
+[2020.04.13-09.01.39:696][645]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.01.39:778][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081796s)
+[2020.04.13-09.01.39:779][645]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.01.39:779][645]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2020.04.13-09.01.39:779][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.082944s)
+[2020.04.13-09.01.39:875][645]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.01.39:892][645]LogInit: FAudioDevice initialized.
+[2020.04.13-09.01.39:931][645]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.01.39:936][645]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.01.39
+[2020.04.13-09.01.39:936][645]LogWorld: Bringing up level for play took: 0.004043
+[2020.04.13-09.01.39:938][645]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.68
+[2020.04.13-09.01.53:335][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.02.02:814][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.02.02:837][ 91]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.13-09.02.02:843][ 91]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2020.04.13-09.02.02:848][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018684376c80, Size=348
+[2020.04.13-09.02.02:848][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186b2bfd480, Size=348, Tank_BP_C_23953 Function /Engine/Transient.REINST_Tank_BP_C_215:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.02.02:851][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186bd630580, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.02.03:548][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186b2bfd480, Size=348
+[2020.04.13-09.02.03:553][ 91]LogPlayLevel: PlayLevel: Blueprint regeneration took 716 ms (1 blueprints)
+[2020.04.13-09.02.03:553][ 91]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:02:03 AM)
+[2020.04.13-09.02.03:553][ 91]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.02.03:640][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086770s)
+[2020.04.13-09.02.03:641][ 91]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.02.03:641][ 91]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2020.04.13-09.02.03:641][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.088075s)
+[2020.04.13-09.02.03:743][ 91]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.02.03:757][ 91]LogInit: FAudioDevice initialized.
+[2020.04.13-09.02.03:795][ 91]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.02.03:800][ 91]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.02.03
+[2020.04.13-09.02.03:800][ 91]LogWorld: Bringing up level for play took: 0.004381
+[2020.04.13-09.02.03:802][ 91]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.543
+[2020.04.13-09.02.16:231][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.02.16:292][445]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.02.16:304][445]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186bd630580, Size=348
+[2020.04.13-09.02.16:304][445]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f49b9780, Size=348, Tank_BP_C_25053 Function /Engine/Transient.REINST_Tank_BP_C_219:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.02.16:309][445]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186b23f0280, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.02.18:612][584]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.04.13-09.02.18:621][584]Candidate modules for hot reload:
+[2020.04.13-09.02.18:621][584]  Battle_Tank
+[2020.04.13-09.02.18:622][584]Launching UnrealBuildTool... [F:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Battle_Tank -ModuleWithSuffix=Battle_Tank,7607 Win64 Development -editorrecompile -canskiplink "C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject" ]
+[2020.04.13-09.02.18:624][584]Warning: Starting HotReload took  0.0s.
+[2020.04.13-09.02.26:368][142]CompilerResultsLog: New page: Compilation - Apr 13, 2020, 11:02:26 AM
+[2020.04.13-09.02.26:368][142]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2020.04.13-09.02.26:368][142]CompilerResultsLog: Creating makefile for hot reloading Battle_Tank (ini files are newer than UBTMakefile)
+[2020.04.13-09.02.26:368][142]CompilerResultsLog: Compiling game modules for hot reload
+[2020.04.13-09.02.26:368][142]CompilerResultsLog: Target is up to date
+[2020.04.13-09.02.26:369][142]CompilerResultsLog: Total build time: 7.24 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2020.04.13-09.02.26:369][142]LogMainFrame: MainFrame: Module compiling took 7.756 seconds
+[2020.04.13-09.02.26:397][142]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f49b9780, Size=348
+[2020.04.13-09.02.26:835][142]LogContentBrowser: Native class hierarchy populated in 0.0177 seconds. Added 2454 classes and 562 folders.
+[2020.04.13-09.02.26:835][142]Display: HotReload took  8.2s.
+[2020.04.13-09.02.45:914][196]LogSavePackage: Save=933.33ms
+[2020.04.13-09.02.45:914][196]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground_Auto6E6043F214E2B39EA00595AA35D443EF0.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Battleground_Auto6.umap'
+[2020.04.13-09.02.45:917][196]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Battleground_Auto6.umap
+[2020.04.13-09.02.45:922][196]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Battleground' took 1.052
+[2020.04.13-09.02.45:922][196]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.052
+[2020.04.13-09.02.45:928][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/Tank_BP] ([1] browsable assets)...
+[2020.04.13-09.02.45:953][196]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tank/Tank_BP.Tank_BP]
+[2020.04.13-09.02.45:953][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/Tank_BP]
+[2020.04.13-09.02.46:014][196]LogSavePackage: Save=45.15ms
+[2020.04.13-09.02.46:014][196]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP_Auto675038CCB492AC8156A3721BA41127D08.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto6.uasset'
+[2020.04.13-09.02.46:016][196]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto6.uasset
+[2020.04.13-09.02.46:016][196]LogFileHelpers: Auto-saving content packages took 0.089
+[2020.04.13-09.03.02:403][246]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.03.02:433][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.03.02:433][246]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:03:02 AM)
+[2020.04.13-09.03.02:433][246]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.03.02:508][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074073s)
+[2020.04.13-09.03.02:508][246]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.03.02:509][246]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2020.04.13-09.03.02:509][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.075336s)
+[2020.04.13-09.03.02:626][246]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.03.02:640][246]LogInit: FAudioDevice initialized.
+[2020.04.13-09.03.02:675][246]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.03.02:678][246]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.03.02
+[2020.04.13-09.03.02:679][246]LogWorld: Bringing up level for play took: 0.003166
+[2020.04.13-09.03.02:681][246]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.579
+[2020.04.13-09.03.19:920][517]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.04.13-09.03.21:981][748]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.13-09.03.22:770][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.03.22:831][837]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.03.22:855][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.03.22:855][837]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:03:22 AM)
+[2020.04.13-09.03.22:855][837]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.03.22:934][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078648s)
+[2020.04.13-09.03.22:935][837]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.03.22:935][837]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2020.04.13-09.03.22:935][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.079963s)
+[2020.04.13-09.03.23:032][837]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.03.23:045][837]LogInit: FAudioDevice initialized.
+[2020.04.13-09.03.23:085][837]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.03.23:090][837]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.03.23
+[2020.04.13-09.03.23:090][837]LogWorld: Bringing up level for play took: 0.004404
+[2020.04.13-09.03.23:092][837]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.167
+[2020.04.13-09.03.34:235][100]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.04.13-09.03.36:031][296]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.13-09.03.37:757][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.03.37:824][501]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.03.37:846][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.03.37:847][501]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:03:37 AM)
+[2020.04.13-09.03.37:847][501]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.03.37:923][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076317s)
+[2020.04.13-09.03.37:924][501]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.03.37:924][501]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2020.04.13-09.03.37:924][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.077447s)
+[2020.04.13-09.03.38:013][501]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.03.38:027][501]LogInit: FAudioDevice initialized.
+[2020.04.13-09.03.38:068][501]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.03.38:071][501]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.03.38
+[2020.04.13-09.03.38:072][501]LogWorld: Bringing up level for play took: 0.003198
+[2020.04.13-09.03.38:073][501]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.814
+[2020.04.13-09.06.33:822][713]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.04.13-09.06.36:664][ 37]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.13-09.06.39:947][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.06.41:004][412]LogSavePackage: Save=955.38ms
+[2020.04.13-09.06.41:004][412]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/BattlegroundB2CDC3704BDE141B93422396C8103295.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap'
+[2020.04.13-09.06.41:017][412]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap
+[2020.04.13-09.06.41:063][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battleground_BuiltData" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset" SILENT=true
+[2020.04.13-09.06.43:601][412]LogSavePackage: Save=2463.17ms
+[2020.04.13-09.06.43:601][412]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground_BuiltDataEB9101FA4A79021870201088FB4DD8A2.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset'
+[2020.04.13-09.06.43:609][412]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset
+[2020.04.13-09.06.48:898][987]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.06.48:922][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.06.48:922][987]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:06:48 AM)
+[2020.04.13-09.06.48:923][987]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.06.49:001][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077917s)
+[2020.04.13-09.06.49:001][987]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.06.49:002][987]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2020.04.13-09.06.49:002][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.079163s)
+[2020.04.13-09.06.49:030][987]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018629303b80, Size=348
+[2020.04.13-09.06.49:030][987]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001860e9c0d00, Size=348
+[2020.04.13-09.06.49:089][987]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.06.49:103][987]LogInit: FAudioDevice initialized.
+[2020.04.13-09.06.49:138][987]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.06.49:142][987]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.06.49
+[2020.04.13-09.06.49:142][987]LogWorld: Bringing up level for play took: 0.003139
+[2020.04.13-09.06.49:145][987]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.114
+[2020.04.13-09.07.01:846][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.07.03:376][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.07.03:411][581]LogSavePackage: Save=30.08ms
+[2020.04.13-09.07.03:411][581]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP1E1BDAEF44E7CAA82E666A8D6D9A87F8.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.07.03:419][581]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.07.13:763][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.07.18:325][274]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.07.18:348][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.07.18:348][274]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:07:18 AM)
+[2020.04.13-09.07.18:349][274]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.07.18:426][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077714s)
+[2020.04.13-09.07.18:427][274]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.07.18:427][274]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2020.04.13-09.07.18:427][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.078853s)
+[2020.04.13-09.07.18:516][274]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.07.18:531][274]LogInit: FAudioDevice initialized.
+[2020.04.13-09.07.18:568][274]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.07.18:572][274]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.07.18
+[2020.04.13-09.07.18:572][274]LogWorld: Bringing up level for play took: 0.003113
+[2020.04.13-09.07.18:574][274]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.685
+[2020.04.13-09.07.22:723][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.07.38:367][480]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.07.38:391][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.07.38:391][480]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:07:38 AM)
+[2020.04.13-09.07.38:391][480]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.07.38:472][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081293s)
+[2020.04.13-09.07.38:473][480]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.07.38:473][480]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2020.04.13-09.07.38:473][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.082323s)
+[2020.04.13-09.07.38:569][480]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.07.38:583][480]LogInit: FAudioDevice initialized.
+[2020.04.13-09.07.38:622][480]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.07.38:627][480]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.07.38
+[2020.04.13-09.07.38:628][480]LogWorld: Bringing up level for play took: 0.004664
+[2020.04.13-09.07.38:630][480]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.629
+[2020.04.13-09.07.43:535][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.07.53:020][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.07.53:044][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.07.53:045][ 33]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:07:53 AM)
+[2020.04.13-09.07.53:045][ 33]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.07.53:117][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071855s)
+[2020.04.13-09.07.53:117][ 33]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.07.53:118][ 33]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2020.04.13-09.07.53:118][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.072965s)
+[2020.04.13-09.07.53:202][ 33]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.07.53:216][ 33]LogInit: FAudioDevice initialized.
+[2020.04.13-09.07.53:252][ 33]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.07.53:255][ 33]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.07.53
+[2020.04.13-09.07.53:256][ 33]LogWorld: Bringing up level for play took: 0.003366
+[2020.04.13-09.07.53:258][ 33]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.002
+[2020.04.13-09.07.57:039][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.07.58:494][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.07.58:537][589]LogSavePackage: Save=30.90ms
+[2020.04.13-09.07.58:537][589]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP68502EA04DF1BFFFA897839830BD9D2C.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.07.58:540][589]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.08.00:686][697]LogSavePackage: Save=1035.14ms
+[2020.04.13-09.08.00:686][697]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground34B7DD4E4A4288CC5483B9B2580C2E3C.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap'
+[2020.04.13-09.08.00:694][697]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap
+[2020.04.13-09.08.00:736][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battleground_BuiltData" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset" SILENT=true
+[2020.04.13-09.08.03:292][697]LogSavePackage: Save=2552.71ms
+[2020.04.13-09.08.03:292][697]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground_BuiltData26B8F1B74F45BA182E094B97A7E9E810.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset'
+[2020.04.13-09.08.03:300][697]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset
+[2020.04.13-09.08.19:826][263]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018628e72ab0, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.08.32:700][760]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018628e72ab0, Size=4
+[2020.04.13-09.08.32:700][760]LogUObjectGlobals: Created PersistentFrame Addr=0x000001862b5b3b98, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_223:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.08.32:702][760]LogUObjectGlobals: Created PersistentFrame Addr=0x000001862b5b0158, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.08.40:251][653]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001862b5b0158, Size=4
+[2020.04.13-09.08.40:251][653]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018628e72d10, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_225:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.08.40:253][653]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018628e701c8, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.08.51:528][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.09.01:315][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.09.14:261][528]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.09.14:286][528]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.13-09.09.14:291][528]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018628e701c8, Size=4
+[2020.04.13-09.09.14:291][528]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186843421f0, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_227:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.09.14:292][528]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2020.04.13-09.09.14:297][528]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186b23f0280, Size=348
+[2020.04.13-09.09.14:297][528]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186a8eb1600, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_229:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.09.14:300][528]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186738e4880, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.09.14:876][528]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018628e72d10, Size=4
+[2020.04.13-09.09.14:876][528]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186a8eb1600, Size=348
+[2020.04.13-09.09.14:876][528]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186843421f0, Size=4
+[2020.04.13-09.09.14:876][528]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001862b5b3b98, Size=4
+[2020.04.13-09.09.14:878][528]LogPlayLevel: PlayLevel: Blueprint regeneration took 592 ms (1 blueprints)
+[2020.04.13-09.09.14:878][528]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:09:14 AM)
+[2020.04.13-09.09.14:878][528]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.09.14:953][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074635s)
+[2020.04.13-09.09.14:953][528]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.09.14:953][528]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2020.04.13-09.09.14:953][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.075613s)
+[2020.04.13-09.09.15:037][528]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.09.15:049][528]LogInit: FAudioDevice initialized.
+[2020.04.13-09.09.15:084][528]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.09.15:087][528]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.09.15
+[2020.04.13-09.09.15:088][528]LogWorld: Bringing up level for play took: 0.002955
+[2020.04.13-09.09.15:090][528]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.169
+[2020.04.13-09.09.23:458][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.09.23:511][477]LogSavePackage: Save=48.04ms
+[2020.04.13-09.09.23:511][477]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP8433DE4E42920A17FEA3FF9083629AD4.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.09.23:515][477]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.09.54:922][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.09.58:775][497]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.13-09.09.58:984][498]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BattleTank
+[2020.04.13-09.09.58:984][498]LogTemp: CWD: F:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2020.04.13-09.09.58:984][498]LogTemp: Initial Dir: F:\UE_4.19
+[2020.04.13-09.09.58:984][498]LogTemp: Env CWD: F:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2020.04.13-09.09.58:984][498]LogTemp: BranchPath = DESKTOP-RCRJTMI/F/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-RCRJTMI/F/UE_4.19/Engine/Binaries
+[2020.04.13-09.09.58:984][498]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\scbis\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.04.13-09.10.00:964][637]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.13-09.10.00:969][637]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.13-09.10.22:083][ 90]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.10.22:095][ 90]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186738e4880, Size=348
+[2020.04.13-09.10.22:095][ 90]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f5af4400, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_233:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.10.22:098][ 90]LogUObjectGlobals: Created PersistentFrame Addr=0x000001860e7c6200, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.10.24:698][296]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.10.24:730][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.10.24:730][296]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:10:24 AM)
+[2020.04.13-09.10.24:731][296]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.10.24:814][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083528s)
+[2020.04.13-09.10.24:815][296]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.10.24:815][296]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2020.04.13-09.10.24:815][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.084887s)
+[2020.04.13-09.10.24:844][296]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f5af4400, Size=348
+[2020.04.13-09.10.24:909][296]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.10.24:925][296]LogInit: FAudioDevice initialized.
+[2020.04.13-09.10.24:961][296]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.10.24:966][296]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.10.24
+[2020.04.13-09.10.24:966][296]LogWorld: Bringing up level for play took: 0.004303
+[2020.04.13-09.10.24:969][296]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.291
+[2020.04.13-09.11.28:002][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.12.31:198][106]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.12.31:209][106]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001860e7c6200, Size=348
+[2020.04.13-09.12.31:209][106]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186b360a680, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_237:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.12.31:212][106]LogUObjectGlobals: Created PersistentFrame Addr=0x000001862e840a00, Size=352, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.12.33:374][274]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.12.33:406][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.12.33:406][274]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:12:33 AM)
+[2020.04.13-09.12.33:406][274]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.12.33:479][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072667s)
+[2020.04.13-09.12.33:479][274]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.12.33:480][274]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2020.04.13-09.12.33:480][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.073842s)
+[2020.04.13-09.12.33:561][274]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.12.33:575][274]LogInit: FAudioDevice initialized.
+[2020.04.13-09.12.33:609][274]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.12.33:612][274]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.12.33
+[2020.04.13-09.12.33:613][274]LogWorld: Bringing up level for play took: 0.003089
+[2020.04.13-09.12.33:615][274]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.355
+[2020.04.13-09.13.23:704][189]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.13.23:715][189]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001862e840a00, Size=352
+[2020.04.13-09.13.23:715][189]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186ae288a00, Size=352, Tank_BP_C_26859 Function /Engine/Transient.REINST_Tank_BP_C_241:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.13.23:718][189]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018619a37a00, Size=352, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.13.25:302][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.13.25:358][298]LogSavePackage: Save=40.65ms
+[2020.04.13-09.13.25:358][298]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP0E7DA93141DD2DC9347F38819009AEFD.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.13.25:362][298]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.13.27:214][495]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186ae288a00, Size=352
+[2020.04.13-09.13.28:167][495]LogSavePackage: Save=915.85ms
+[2020.04.13-09.13.28:167][495]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground7764AECF43CB3FF10950BF9ED367D803.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap'
+[2020.04.13-09.13.28:174][495]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap
+[2020.04.13-09.13.28:214][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battleground_BuiltData" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset" SILENT=true
+[2020.04.13-09.13.30:675][495]LogSavePackage: Save=2386.80ms
+[2020.04.13-09.13.30:675][495]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground_BuiltData4F3D45034EF0BAC038D8EFBA03F1885E.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset'
+[2020.04.13-09.13.30:683][495]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset
+[2020.04.13-09.13.31:352][556]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.13.31:383][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.13.31:384][556]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:13:31 AM)
+[2020.04.13-09.13.31:384][556]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.13.31:462][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078145s)
+[2020.04.13-09.13.31:463][556]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.13.31:463][556]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.04.13-09.13.31:463][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.079254s)
+[2020.04.13-09.13.31:489][556]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186b360a680, Size=348
+[2020.04.13-09.13.31:545][556]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.13.31:560][556]LogInit: FAudioDevice initialized.
+[2020.04.13-09.13.31:598][556]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.13.31:601][556]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.13.31
+[2020.04.13-09.13.31:602][556]LogWorld: Bringing up level for play took: 0.003634
+[2020.04.13-09.13.31:604][556]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.345
+[2020.04.13-09.14.44:926][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.15.08:373][267]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186843439f8, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.15.10:573][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.15.10:620][519]LogSavePackage: Save=42.59ms
+[2020.04.13-09.15.10:620][519]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP2C3AE1944B7ACC2D3E49778DE3921657.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.15.10:624][519]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.15.11:397][611]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.15.11:402][611]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186843439f8, Size=4
+[2020.04.13-09.15.11:402][611]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186843439f8, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_245:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.15.11:408][611]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018619a37a00, Size=352
+[2020.04.13-09.15.11:408][611]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f49a4b80, Size=352, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_247:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.15.11:411][611]LogBlueprint: Error: [Compiler Tank_BP] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.04.13-09.15.11:411][611]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186a1b22c80, Size=352, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.15.11:566][611]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186843439f8, Size=4
+[2020.04.13-09.15.11:585][611]LogBlueprint: Warning: [Compiler Tank_BP] [6101.69] Compile of Tank_BP failed. 1 Fatal Issue(s) 0 Warning(s) [in 188 ms] (/Game/Tank/Tank_BP.Tank_BP)
+[2020.04.13-09.15.29:269][693]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.15.29:279][693]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186a1b22c80, Size=352
+[2020.04.13-09.15.29:279][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186b2b53400, Size=352, Tank_BP_C_27042 Function /Engine/Transient.REINST_Tank_BP_C_251:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.15.29:283][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186bdd2a800, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.15.29:440][693]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f49a4b80, Size=352
+[2020.04.13-09.15.32:545][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.15.32:579][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.15.32:580][ 27]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:15:32 AM)
+[2020.04.13-09.15.32:580][ 27]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.15.32:655][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074787s)
+[2020.04.13-09.15.32:655][ 27]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.15.32:656][ 27]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2020.04.13-09.15.32:656][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.075861s)
+[2020.04.13-09.15.32:682][ 27]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186b2b53400, Size=352
+[2020.04.13-09.15.32:743][ 27]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.15.32:756][ 27]LogInit: FAudioDevice initialized.
+[2020.04.13-09.15.32:794][ 27]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.15.32:798][ 27]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.15.32
+[2020.04.13-09.15.32:798][ 27]LogWorld: Bringing up level for play took: 0.003110
+[2020.04.13-09.15.32:800][ 27]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.459
+[2020.04.13-09.15.40:269][833]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.15.40:291][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.15.40:291][833]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:15:40 AM)
+[2020.04.13-09.15.40:291][833]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.15.40:376][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084887s)
+[2020.04.13-09.15.40:377][833]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.15.40:377][833]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2020.04.13-09.15.40:378][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.086102s)
+[2020.04.13-09.15.40:499][833]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.15.40:514][833]LogInit: FAudioDevice initialized.
+[2020.04.13-09.15.40:556][833]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.15.40:560][833]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.15.40
+[2020.04.13-09.15.40:560][833]LogWorld: Bringing up level for play took: 0.003382
+[2020.04.13-09.15.40:562][833]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.697
+[2020.04.13-09.16.09:703][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.16.09:726][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.16.09:726][ 95]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:16:09 AM)
+[2020.04.13-09.16.09:726][ 95]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.16.09:804][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077541s)
+[2020.04.13-09.16.09:804][ 95]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.16.09:805][ 95]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2020.04.13-09.16.09:805][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.078629s)
+[2020.04.13-09.16.09:890][ 95]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.16.09:904][ 95]LogInit: FAudioDevice initialized.
+[2020.04.13-09.16.09:943][ 95]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.16.09:947][ 95]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.16.09
+[2020.04.13-09.16.09:947][ 95]LogWorld: Bringing up level for play took: 0.003139
+[2020.04.13-09.16.09:949][ 95]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.69
+[2020.04.13-09.16.12:610][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.16.22:762][534]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.16.22:774][534]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186bdd2a800, Size=348
+[2020.04.13-09.16.22:774][534]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186c1ec9480, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_255:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.16.22:777][534]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f183f700, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.16.26:967][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186c1ec9480, Size=348
+[2020.04.13-09.16.27:861][928]LogSavePackage: Save=891.59ms
+[2020.04.13-09.16.27:861][928]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground5434FA3D44F226615F391DA585F198A7.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap'
+[2020.04.13-09.16.27:867][928]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap
+[2020.04.13-09.16.27:910][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battleground_BuiltData" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset" SILENT=true
+[2020.04.13-09.16.30:295][928]LogSavePackage: Save=2380.25ms
+[2020.04.13-09.16.30:295][928]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground_BuiltData13A276D44906FA5C6BEA93889032F828.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset'
+[2020.04.13-09.16.30:304][928]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset
+[2020.04.13-09.16.31:091][999]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.16.31:121][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.16.31:122][999]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:16:31 AM)
+[2020.04.13-09.16.31:122][999]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.16.31:211][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089580s)
+[2020.04.13-09.16.31:212][999]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.16.31:212][999]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2020.04.13-09.16.31:212][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.090628s)
+[2020.04.13-09.16.31:295][999]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.16.31:308][999]LogInit: FAudioDevice initialized.
+[2020.04.13-09.16.31:349][999]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.16.31:352][999]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.16.31
+[2020.04.13-09.16.31:352][999]LogWorld: Bringing up level for play took: 0.002976
+[2020.04.13-09.16.31:354][999]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.095
+[2020.04.13-09.16.40:363][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.16.41:857][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.16.41:903][169]LogSavePackage: Save=41.32ms
+[2020.04.13-09.16.41:903][169]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP6AAA8B804F87F020D2176C95601FD73B.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.16.41:907][169]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.16.51:345][218]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.16.51:367][218]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.13-09.16.51:373][218]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2020.04.13-09.16.51:377][218]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f183f700, Size=348
+[2020.04.13-09.16.51:378][218]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f7c6d000, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_259:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.16.51:381][218]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186be786200, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.16.51:957][218]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f7c6d000, Size=348
+[2020.04.13-09.16.51:958][218]LogPlayLevel: PlayLevel: Blueprint regeneration took 590 ms (1 blueprints)
+[2020.04.13-09.16.51:959][218]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:16:51 AM)
+[2020.04.13-09.16.51:959][218]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.16.52:035][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076033s)
+[2020.04.13-09.16.52:035][218]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.16.52:036][218]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2020.04.13-09.16.52:036][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.076987s)
+[2020.04.13-09.16.52:118][218]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.16.52:130][218]LogInit: FAudioDevice initialized.
+[2020.04.13-09.16.52:164][218]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.16.52:167][218]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.16.52
+[2020.04.13-09.16.52:168][218]LogWorld: Bringing up level for play took: 0.003055
+[2020.04.13-09.16.52:170][218]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.91
+[2020.04.13-09.16.59:446][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.17.00:315][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.17.00:358][ 90]LogSavePackage: Save=38.71ms
+[2020.04.13-09.17.00:358][ 90]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BPA2486709454425EBA403D49EDC217D75.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.17.00:361][ 90]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.17.25:939][ 32]LogUObjectGlobals: Created PersistentFrame Addr=0x000001862b15e678, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.17.52:802][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001862b15e678, Size=4
+[2020.04.13-09.17.52:802][145]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018628e71660, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_263:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.17.52:804][145]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018628e714d0, Size=4, Default__SKEL_Tank_BP_C Function /Game/Tank/Tank_BP.SKEL_Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.17.56:718][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.18.04:408][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.18.04:474][460]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.18.04:480][460]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018628e714d0, Size=4
+[2020.04.13-09.18.04:480][460]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018628e714d0, Size=4, Default__SKEL_Tank_BP_C Function /Engine/Transient.REINST_SKEL_Tank_BP_C_265:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.18.04:486][460]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186be786200, Size=348
+[2020.04.13-09.18.04:486][460]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018628a7e800, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_267:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.18.04:489][460]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186caa42980, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.18.05:264][460]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018628e714d0, Size=4
+[2020.04.13-09.18.05:264][460]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018628e71660, Size=4
+[2020.04.13-09.18.07:940][746]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.18.07:970][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.18.07:970][746]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:18:07 AM)
+[2020.04.13-09.18.07:970][746]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.18.08:045][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074935s)
+[2020.04.13-09.18.08:046][746]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.18.08:047][746]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2020.04.13-09.18.08:047][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.076263s)
+[2020.04.13-09.18.08:074][746]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018628a7e800, Size=348
+[2020.04.13-09.18.08:136][746]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.18.08:150][746]LogInit: FAudioDevice initialized.
+[2020.04.13-09.18.08:188][746]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.18.08:192][746]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.18.08
+[2020.04.13-09.18.08:192][746]LogWorld: Bringing up level for play took: 0.003279
+[2020.04.13-09.18.08:194][746]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.935
+[2020.04.13-09.18.11:888][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.18.26:958][691]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.18.26:983][691]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.13-09.18.26:989][691]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2020.04.13-09.18.26:996][691]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186caa42980, Size=348
+[2020.04.13-09.18.26:996][691]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186e27d9000, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_271:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.18.27:000][691]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f0344880, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.18.27:591][691]LogPlayLevel: PlayLevel: Blueprint regeneration took 608 ms (1 blueprints)
+[2020.04.13-09.18.27:592][691]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:18:27 AM)
+[2020.04.13-09.18.27:592][691]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.18.27:675][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082990s)
+[2020.04.13-09.18.27:676][691]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.18.27:676][691]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2020.04.13-09.18.27:676][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.084025s)
+[2020.04.13-09.18.27:758][691]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.18.27:772][691]LogInit: FAudioDevice initialized.
+[2020.04.13-09.18.27:808][691]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.18.27:811][691]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.18.27
+[2020.04.13-09.18.27:812][691]LogWorld: Bringing up level for play took: 0.003271
+[2020.04.13-09.18.27:814][691]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.555
+[2020.04.13-09.18.33:956][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.18.34:015][360]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.18.34:044][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.18.34:044][360]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:18:34 AM)
+[2020.04.13-09.18.34:044][360]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.18.34:118][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073402s)
+[2020.04.13-09.18.34:119][360]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.18.34:119][360]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2020.04.13-09.18.34:119][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.074600s)
+[2020.04.13-09.18.34:204][360]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.18.34:219][360]LogInit: FAudioDevice initialized.
+[2020.04.13-09.18.34:259][360]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.18.34:264][360]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.18.34
+[2020.04.13-09.18.34:265][360]LogWorld: Bringing up level for play took: 0.004512
+[2020.04.13-09.18.34:267][360]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 1.008
+[2020.04.13-09.18.38:294][675]LogSavePackage: Save=1033.18ms
+[2020.04.13-09.18.38:294][675]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/BattlegroundDFFF8BA34CD316D0B77B3586488281B7.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap'
+[2020.04.13-09.18.38:312][675]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap
+[2020.04.13-09.18.38:361][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battleground_BuiltData" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset" SILENT=true
+[2020.04.13-09.18.40:994][675]LogSavePackage: Save=2551.20ms
+[2020.04.13-09.18.40:994][675]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground_BuiltData702D0F9749BCA3E45AABC2B7895679A7.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset'
+[2020.04.13-09.18.41:002][675]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset
+[2020.04.13-09.19.00:694][735]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.19.00:720][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.19.00:720][735]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:19:00 AM)
+[2020.04.13-09.19.00:721][735]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.19.00:806][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085760s)
+[2020.04.13-09.19.00:807][735]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.19.00:807][735]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2020.04.13-09.19.00:808][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.087005s)
+[2020.04.13-09.19.00:837][735]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186e27d9000, Size=348
+[2020.04.13-09.19.00:913][735]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.19.00:929][735]LogInit: FAudioDevice initialized.
+[2020.04.13-09.19.00:969][735]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.19.00:974][735]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.19.00
+[2020.04.13-09.19.00:974][735]LogWorld: Bringing up level for play took: 0.005002
+[2020.04.13-09.19.00:977][735]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.282
+[2020.04.13-09.19.04:869][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.19.06:155][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.19.06:209][291]LogSavePackage: Save=41.26ms
+[2020.04.13-09.19.06:209][291]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP078CBDB1456A4E7776F7C383BFC568EA.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.19.06:213][291]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.19.21:743][ 71]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.19.21:754][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f0344880, Size=348
+[2020.04.13-09.19.21:754][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186dcf65180, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_275:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.19.21:757][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186a906b400, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.19.24:191][258]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.19.24:226][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.19.24:226][258]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:19:24 AM)
+[2020.04.13-09.19.24:226][258]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.19.24:313][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086910s)
+[2020.04.13-09.19.24:314][258]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.19.24:314][258]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2020.04.13-09.19.24:314][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.088160s)
+[2020.04.13-09.19.24:341][258]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186dcf65180, Size=348
+[2020.04.13-09.19.24:405][258]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.19.24:418][258]LogInit: FAudioDevice initialized.
+[2020.04.13-09.19.24:454][258]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.19.24:458][258]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.19.24
+[2020.04.13-09.19.24:458][258]LogWorld: Bringing up level for play took: 0.003052
+[2020.04.13-09.19.24:461][258]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 1.202
+[2020.04.13-09.19.30:752][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.19.32:622][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.19.32:667][149]LogSavePackage: Save=41.54ms
+[2020.04.13-09.19.32:667][149]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP355ED3F140D19B3912E619909401D417.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.19.32:671][149]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.19.50:590][154]LogSavePackage: Save=910.58ms
+[2020.04.13-09.19.50:590][154]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground166E50814EB0B1C0F1CC9E8650743D2A.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap'
+[2020.04.13-09.19.50:605][154]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap
+[2020.04.13-09.19.50:647][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battleground_BuiltData" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset" SILENT=true
+[2020.04.13-09.19.53:100][154]LogSavePackage: Save=2449.51ms
+[2020.04.13-09.19.53:100][154]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground_BuiltDataFCCC9E2449CD01B5E7C5DFA62CE5134E.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset'
+[2020.04.13-09.19.53:107][154]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground_BuiltData.uasset
+[2020.04.13-09.19.54:069][261]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.19.54:091][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.19.54:091][261]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:19:54 AM)
+[2020.04.13-09.19.54:092][261]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.19.54:168][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076051s)
+[2020.04.13-09.19.54:168][261]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.19.54:169][261]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2020.04.13-09.19.54:169][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.077313s)
+[2020.04.13-09.19.54:265][261]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.19.54:280][261]LogInit: FAudioDevice initialized.
+[2020.04.13-09.19.54:320][261]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.19.54:323][261]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.19.54
+[2020.04.13-09.19.54:324][261]LogWorld: Bringing up level for play took: 0.003378
+[2020.04.13-09.19.54:326][261]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 1.067
+[2020.04.13-09.19.59:982][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-09.20.00:706][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-09.20.01:837][947]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.13-09.20.02:027][948]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BattleTank
+[2020.04.13-09.20.02:027][948]LogTemp: CWD: F:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2020.04.13-09.20.02:027][948]LogTemp: Initial Dir: F:\UE_4.19
+[2020.04.13-09.20.02:027][948]LogTemp: Env CWD: F:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2020.04.13-09.20.02:027][948]LogTemp: BranchPath = DESKTOP-RCRJTMI/F/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-RCRJTMI/F/UE_4.19/Engine/Binaries
+[2020.04.13-09.20.02:027][948]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\scbis\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.04.13-09.20.08:885][496]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.13-09.20.08:891][496]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.13-09.20.09:956][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.20.11:792][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.20.11:827][809]LogSavePackage: Save=30.68ms
+[2020.04.13-09.20.11:827][809]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP2A903C2E4BD2E02754288FA9D02777AF.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.20.11:831][809]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.22.13:094][897]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.22.13:105][897]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186a906b400, Size=348
+[2020.04.13-09.22.13:105][897]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f1c35c00, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_279:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.22.13:108][897]LogUObjectGlobals: Created PersistentFrame Addr=0x000001868432f880, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.22.15:697][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.22.15:734][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.22.15:734][ 88]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:22:15 AM)
+[2020.04.13-09.22.15:734][ 88]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.22.15:812][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077191s)
+[2020.04.13-09.22.15:812][ 88]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.22.15:813][ 88]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2020.04.13-09.22.15:813][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.078144s)
+[2020.04.13-09.22.15:838][ 88]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186f1c35c00, Size=348
+[2020.04.13-09.22.15:897][ 88]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.22.15:909][ 88]LogInit: FAudioDevice initialized.
+[2020.04.13-09.22.15:944][ 88]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.22.15:947][ 88]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.22.15
+[2020.04.13-09.22.15:948][ 88]LogWorld: Bringing up level for play took: 0.002898
+[2020.04.13-09.22.15:950][ 88]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.69
+[2020.04.13-09.22.34:804][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.22.36:250][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.22.36:295][401]LogSavePackage: Save=41.69ms
+[2020.04.13-09.22.36:295][401]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP3CDB97AC4CA7CF944562E0AB345893C9.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.22.36:299][401]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.22.43:693][237]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.22.43:717][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.22.43:717][237]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:22:43 AM)
+[2020.04.13-09.22.43:717][237]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.22.43:791][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073361s)
+[2020.04.13-09.22.43:791][237]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.22.43:792][237]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2020.04.13-09.22.43:792][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.074515s)
+[2020.04.13-09.22.43:878][237]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.22.43:891][237]LogInit: FAudioDevice initialized.
+[2020.04.13-09.22.43:930][237]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.22.43:933][237]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.22.43
+[2020.04.13-09.22.43:933][237]LogWorld: Bringing up level for play took: 0.002953
+[2020.04.13-09.22.43:935][237]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.676
+[2020.04.13-09.22.47:385][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.22.52:710][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.22.52:745][210]LogSavePackage: Save=30.35ms
+[2020.04.13-09.22.52:745][210]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP73B47E0E4BEA4066163567ACDB6B8669.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.22.52:749][210]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.22.54:896][438]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.22.54:919][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.22.54:919][438]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:22:54 AM)
+[2020.04.13-09.22.54:920][438]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.22.54:995][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075372s)
+[2020.04.13-09.22.54:996][438]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.22.54:996][438]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2020.04.13-09.22.54:996][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.076611s)
+[2020.04.13-09.22.55:077][438]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.22.55:089][438]LogInit: FAudioDevice initialized.
+[2020.04.13-09.22.55:124][438]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.22.55:128][438]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.22.55
+[2020.04.13-09.22.55:128][438]LogWorld: Bringing up level for play took: 0.003014
+[2020.04.13-09.22.55:130][438]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.13
+[2020.04.13-09.22.59:286][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.23.01:129][101]LogEditorTransaction: Undo Make New Scene Root
+[2020.04.13-09.23.01:643][159]LogEditorTransaction: Undo Make New Scene Root
+[2020.04.13-09.23.05:671][620]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.23.05:694][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.23.05:694][620]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:23:05 AM)
+[2020.04.13-09.23.05:694][620]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.23.05:765][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070255s)
+[2020.04.13-09.23.05:766][620]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.23.05:766][620]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2020.04.13-09.23.05:766][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.071364s)
+[2020.04.13-09.23.05:848][620]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.23.05:862][620]LogInit: FAudioDevice initialized.
+[2020.04.13-09.23.05:897][620]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.23.05:902][620]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.23.05
+[2020.04.13-09.23.05:903][620]LogWorld: Bringing up level for play took: 0.005032
+[2020.04.13-09.23.05:905][620]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.645
+[2020.04.13-09.23.08:911][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.23.59:444][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.24.08:206][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.13-09.24.08:259][349]LogSavePackage: Save=41.34ms
+[2020.04.13-09.24.08:259][349]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BPB59B065342C4B2B266D331A1F20B2946.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.13-09.24.08:264][349]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset
+[2020.04.13-09.24.09:880][517]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.24.09:902][517]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.13-09.24.09:908][517]LogPlayLevel: [PlayLevel] Compiling Tank_BP before play...
+[2020.04.13-09.24.09:913][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001868432f880, Size=348
+[2020.04.13-09.24.09:913][517]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018673878580, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_283:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.24.09:916][517]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186a22abd00, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.24.10:528][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018673878580, Size=348
+[2020.04.13-09.24.10:531][517]LogPlayLevel: PlayLevel: Blueprint regeneration took 628 ms (1 blueprints)
+[2020.04.13-09.24.10:532][517]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:24:10 AM)
+[2020.04.13-09.24.10:532][517]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.24.10:609][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077569s)
+[2020.04.13-09.24.10:610][517]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.24.10:610][517]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2020.04.13-09.24.10:610][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.078691s)
+[2020.04.13-09.24.10:690][517]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.24.10:702][517]LogInit: FAudioDevice initialized.
+[2020.04.13-09.24.10:738][517]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.24.10:742][517]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.24.10
+[2020.04.13-09.24.10:742][517]LogWorld: Bringing up level for play took: 0.003023
+[2020.04.13-09.24.10:744][517]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 1.484
+[2020.04.13-09.24.18:999][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-09.24.20:095][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-09.24.21:187][520]LogSavePackage: Save=951.48ms
+[2020.04.13-09.24.21:187][520]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground1215D9BF43B2EA5026854487A45BCD53.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap'
+[2020.04.13-09.24.21:196][520]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Battleground.umap
+[2020.04.13-09.24.21:240][520]LogFileHelpers: Saving map 'Battleground' took 1.140
+[2020.04.13-09.24.29:430][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.24.29:430][589]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.24.29:464][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.24.29:464][589]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:24:29 AM)
+[2020.04.13-09.24.29:464][589]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.24.29:545][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080988s)
+[2020.04.13-09.24.29:546][589]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.24.29:546][589]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2020.04.13-09.24.29:546][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.082075s)
+[2020.04.13-09.24.29:627][589]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.24.29:640][589]LogInit: FAudioDevice initialized.
+[2020.04.13-09.24.29:681][589]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.24.29:684][589]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.24.29
+[2020.04.13-09.24.29:684][589]LogWorld: Bringing up level for play took: 0.002966
+[2020.04.13-09.24.29:686][589]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.427
+[2020.04.13-09.24.46:264][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.24.48:058][611]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.04.13-09.24.59:191][674]Cmd: TRANSACTION UNDO
+[2020.04.13-09.24.59:191][674]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.13-09.24.59:323][674]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.04.13-09.24.59:381][674]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.04.13-09.24.59:445][674]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.04.13-09.24.59:494][674]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2020.04.13-09.24.59:568][674]Cmd: TRANSACTION UNDO
+[2020.04.13-09.24.59:568][674]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.13-09.24.59:665][674]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.04.13-09.24.59:717][674]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.04.13-09.24.59:764][674]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.04.13-09.24.59:815][674]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2020.04.13-09.25.00:387][720]Cmd: TRANSACTION UNDO
+[2020.04.13-09.25.00:387][720]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.13-09.25.00:491][720]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.04.13-09.25.00:541][720]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.04.13-09.25.00:598][720]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.04.13-09.25.00:644][720]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2020.04.13-09.25.01:133][764]Cmd: TRANSACTION UNDO
+[2020.04.13-09.25.01:133][764]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.13-09.25.06:336][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.25.13:774][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.25.15:048][151]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.25.15:072][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.25.15:072][151]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:25:15 AM)
+[2020.04.13-09.25.15:072][151]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.25.15:150][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077980s)
+[2020.04.13-09.25.15:151][151]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.25.15:151][151]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2020.04.13-09.25.15:151][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.079246s)
+[2020.04.13-09.25.15:247][151]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.25.15:261][151]LogInit: FAudioDevice initialized.
+[2020.04.13-09.25.15:299][151]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.25.15:303][151]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.25.15
+[2020.04.13-09.25.15:304][151]LogWorld: Bringing up level for play took: 0.003429
+[2020.04.13-09.25.15:311][151]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=192.202] for [Tank_BP_C]
+[2020.04.13-09.25.15:311][151]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Tank_BP_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 192.202057
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.04.13-09.25.15:312][151]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.053
+[2020.04.13-09.25.30:945][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.25.31:015][723]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.25.31:040][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.25.31:040][723]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:25:31 AM)
+[2020.04.13-09.25.31:040][723]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.25.31:124][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083176s)
+[2020.04.13-09.25.31:124][723]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.25.31:125][723]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2020.04.13-09.25.31:125][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.084326s)
+[2020.04.13-09.25.31:221][723]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.25.31:234][723]LogInit: FAudioDevice initialized.
+[2020.04.13-09.25.31:271][723]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.25.31:274][723]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.25.31
+[2020.04.13-09.25.31:275][723]LogWorld: Bringing up level for play took: 0.003367
+[2020.04.13-09.25.31:276][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=192.202] for [Tank_BP_C]
+[2020.04.13-09.25.31:277][723]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Tank_BP_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 192.202057
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.04.13-09.25.31:277][723]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.017
+[2020.04.13-09.25.35:063][113]Cmd: TRANSACTION UNDO
+[2020.04.13-09.25.35:063][113]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.13-09.25.35:175][113]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.04.13-09.25.35:226][113]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.04.13-09.25.35:281][113]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.04.13-09.25.35:345][113]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2020.04.13-09.25.38:461][413]Cmd: TRANSACTION UNDO
+[2020.04.13-09.25.38:461][413]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.13-09.25.38:562][413]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.04.13-09.25.38:612][413]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.04.13-09.25.38:663][413]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.04.13-09.25.38:722][413]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2020.04.13-09.25.39:322][449]Cmd: TRANSACTION UNDO
+[2020.04.13-09.25.39:322][449]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.04.13-09.25.40:556][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.25.40:608][543]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.25.40:632][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.25.40:632][543]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:25:40 AM)
+[2020.04.13-09.25.40:632][543]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.25.40:714][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081694s)
+[2020.04.13-09.25.40:715][543]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.25.40:715][543]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2020.04.13-09.25.40:715][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.082912s)
+[2020.04.13-09.25.40:799][543]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.25.40:813][543]LogInit: FAudioDevice initialized.
+[2020.04.13-09.25.40:849][543]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.25.40:852][543]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.25.40
+[2020.04.13-09.25.40:853][543]LogWorld: Bringing up level for play took: 0.003452
+[2020.04.13-09.25.40:855][543]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.404
+[2020.04.13-09.25.56:170][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.26.00:210][644]BlueprintLog: New page: Compile Tank_BP
+[2020.04.13-09.26.00:223][644]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186a22abd00, Size=348
+[2020.04.13-09.26.00:223][644]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186dcf65a80, Size=348, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_287:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.26.00:227][644]LogUObjectGlobals: Created PersistentFrame Addr=0x00000186f54fcd00, Size=348, Default__Tank_BP_C Function /Game/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2020.04.13-09.26.02:193][766]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.26.02:222][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.26.02:223][766]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:26:02 AM)
+[2020.04.13-09.26.02:223][766]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.26.02:314][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091338s)
+[2020.04.13-09.26.02:315][766]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.26.02:315][766]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2020.04.13-09.26.02:315][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.092600s)
+[2020.04.13-09.26.02:343][766]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000186dcf65a80, Size=348
+[2020.04.13-09.26.02:404][766]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.26.02:417][766]LogInit: FAudioDevice initialized.
+[2020.04.13-09.26.02:454][766]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.26.02:457][766]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.26.02
+[2020.04.13-09.26.02:458][766]LogWorld: Bringing up level for play took: 0.003057
+[2020.04.13-09.26.02:460][766]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 1.201
+[2020.04.13-09.26.29:313][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.26.39:070][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.26.41:793][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.26.50:616][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.26.55:477][236]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.04.13-09.26.57:500][453]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.13-09.26.58:428][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.26.58:493][553]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.26.58:516][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.26.58:516][553]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:26:58 AM)
+[2020.04.13-09.26.58:516][553]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.26.58:596][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079874s)
+[2020.04.13-09.26.58:597][553]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.26.58:597][553]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2020.04.13-09.26.58:597][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.081022s)
+[2020.04.13-09.26.58:686][553]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.26.58:699][553]LogInit: FAudioDevice initialized.
+[2020.04.13-09.26.58:739][553]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.26.58:742][553]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.26.58
+[2020.04.13-09.26.58:742][553]LogWorld: Bringing up level for play took: 0.003132
+[2020.04.13-09.26.58:744][553]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=60.000 Z=192.202] for [Tank_BP_C]
+[2020.04.13-09.26.58:745][553]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Tank_BP_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 60.000000 192.202057
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.04.13-09.26.58:745][553]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.514
+[2020.04.13-09.27.12:111][899]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.04.13-09.27.14:375][135]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.13-09.27.15:463][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.27.15:530][243]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.27.15:557][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.27.15:557][243]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:27:15 AM)
+[2020.04.13-09.27.15:557][243]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.27.15:634][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076329s)
+[2020.04.13-09.27.15:635][243]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.27.15:635][243]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2020.04.13-09.27.15:635][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.077717s)
+[2020.04.13-09.27.15:725][243]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.27.15:739][243]LogInit: FAudioDevice initialized.
+[2020.04.13-09.27.15:775][243]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.27.15:779][243]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.27.15
+[2020.04.13-09.27.15:779][243]LogWorld: Bringing up level for play took: 0.003359
+[2020.04.13-09.27.15:781][243]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground 0.522
+[2020.04.13-09.27.27:719][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-09.27.28:849][592]MapCheck: New page: Map Check
+[2020.04.13-09.27.28:864][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-09.27.28:870][592]LightingResults: New page: Lighting Build - Apr 13, 2020, 11:27:28 AM
+[2020.04.13-09.27.29:109][592]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.13-09.27.29:384][592]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.13-09.27.29:446][592]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.13-09.27.30:462][592]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.13-09.27.30:462][592]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15184
+[2020.04.13-09.27.37:365][592]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.13-09.27.37:365][592]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.13-09.27.37:365][592]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.13-09.27.37:365][592]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.13-09.27.37:365][592]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.13-09.27.38:550][592]LogEditorBuildUtils: Build time 0:09
+[2020.04.13-09.30.35:584][950]Job is a success!
+[2020.04.13-09.30.35:615][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-09.30.35:953][951]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.04.13-09.30.35:953][951]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.13-09.30.35:953][951]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2020.04.13-09.30.35:953][951]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.13-09.30.35:953][951]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2020.04.13-09.30.35:953][951]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2020.04.13-09.30.35:953][951]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2020.04.13-09.30.44:751][951]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:751][951]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:751][951]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.04.13-09.30.44:751][951]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.04.13-09.30.44:751][951]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:751][951]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2020.04.13-09.30.44:751][951]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:751][951]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2020.04.13-09.30.44:751][951]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:751][951]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:752][951]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 512X512)
+[2020.04.13-09.30.44:753][951]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 512X512)
+[2020.04.13-09.30.44:754][951]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_55 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_56 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_56 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_57 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_57 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_58 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_58 (DXT1, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:755][951]LogTexture: Display: Building textures: LQ_Lightmap_1_59 (DXT1, 512X512)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: HQ_Lightmap1_60 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: LQ_Lightmap_1_60 (DXT1, 512X512)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: HQ_Lightmap1_61 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: LQ_Lightmap_1_61 (DXT1, 512X512)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: HQ_Lightmap1_62 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: LQ_Lightmap_1_62 (DXT1, 512X512)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: HQ_Lightmap1_63 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: LQ_Lightmap_1_63 (DXT1, 512X512)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 512X512)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: LQ_Lightmap_1_64 (DXT1, 512X512)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: HQ_Lightmap1_65 (AutoDXT, 64X64)
+[2020.04.13-09.30.44:756][951]LogTexture: Display: Building textures: LQ_Lightmap_1_65 (DXT1, 64X64)
+[2020.04.13-09.30.44:953][951]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2020.04.13-09.30.44:953][951]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X256)
+[2020.04.13-09.30.44:953][951]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 256X256)
+[2020.04.13-09.30.44:954][951]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X256)
+[2020.04.13-09.30.44:955][951]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X256)
+[2020.04.13-09.30.44:955][951]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 256X256)
+[2020.04.13-09.30.44:955][951]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 256X256)
+[2020.04.13-09.30.44:955][951]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 256X256)
+[2020.04.13-09.30.44:955][951]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 256X256)
+[2020.04.13-09.30.44:955][951]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 256X256)
+[2020.04.13-09.30.44:955][951]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 256X256)
+[2020.04.13-09.30.44:955][951]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 256X256)
+[2020.04.13-09.30.44:955][951]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 256X256)
+[2020.04.13-09.30.44:957][951]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 256X256)
+[2020.04.13-09.30.44:957][951]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 256X256)
+[2020.04.13-09.30.45:094][951]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 256X256)
+[2020.04.13-09.30.45:095][951]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 32X32)
+[2020.04.13-09.30.45:095][951]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 256X256)
+[2020.04.13-09.30.45:095][951]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 256X256)
+[2020.04.13-09.30.45:095][951]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 256X256)
+[2020.04.13-09.30.45:095][951]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 256X256)
+[2020.04.13-09.30.45:095][951]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 256X256)
+[2020.04.13-09.30.45:397][951]Lightmass on DESKTOP-RCRJTMI: 3:05 min total, 4.15 sec importing, 6.21 sec setup, 51.4 sec photons, 2:03 min processing, 0 ms extra exporting [65/65 mappings]. Threads: 14:20 min total, 10:58 min processing.
+[2020.04.13-09.30.45:408][951]LogStaticLightingSystem: Illumination: 3:16 min (8.12 sec encoding lightmaps, 335 ms encoding shadowmaps)
+[2020.04.13-09.30.45:408][951]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 130 textures
+[2020.04.13-09.30.45:408][951]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 65 textures
+[2020.04.13-09.30.46:515][951]DumpUnbuiltLightIteractions
+[2020.04.13-09.30.46:515][951]Lights with unbuilt interactions: 0
+[2020.04.13-09.30.46:515][951]
+[2020.04.13-09.30.46:515][951]Primitives with unbuilt interactions: 0
+[2020.04.13-09.30.46:523][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-09.30.46:723][952]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.13-09.30.46:724][952]MapCheck: New page: Battleground - Apr 13, 2020, 11:30:46 AM
+[2020.04.13-09.30.46:799][952]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.2ms to complete.
+[2020.04.13-09.35.04:452][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-09.35.04:595][823]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.04.13-09.35.04:621][823]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.04.13-09.35.04:638][823]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.04.13-09.35.04:652][823]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2020.04.13-09.35.05:644][823]LogSavePackage: Save=1081.81ms
+[2020.04.13-09.35.05:644][823]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground_Auto7FBE1733E4D15C68C3F90BEBBD4701173.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Battleground_Auto7.umap'
+[2020.04.13-09.35.05:646][823]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Battleground_Auto7.umap
+[2020.04.13-09.35.05:657][823]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Battleground' took 1.167
+[2020.04.13-09.35.05:658][823]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.167
+[2020.04.13-09.35.05:663][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Battleground_BuiltData] ([1] browsable assets)...
+[2020.04.13-09.35.05:664][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Battleground_BuiltData]
+[2020.04.13-09.35.05:989][823]LogSavePackage: Save=230.62ms
+[2020.04.13-09.35.05:989][823]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground_BuiltData_Auto7DAB4AF14419A4EE8DC497FA13A7D8A0A.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Battleground_BuiltData_Auto7.uasset'
+[2020.04.13-09.35.05:991][823]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Battleground_BuiltData_Auto7.uasset
+[2020.04.13-09.35.05:992][823]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/Tank_BP] ([1] browsable assets)...
+[2020.04.13-09.35.06:031][823]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tank/Tank_BP.Tank_BP]
+[2020.04.13-09.35.06:031][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/Tank_BP]
+[2020.04.13-09.35.06:090][823]LogSavePackage: Save=46.76ms
+[2020.04.13-09.35.06:090][823]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP_Auto760AE588C42CBCB60CCE4A6A7AAE62A52.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto7.uasset'
+[2020.04.13-09.35.06:092][823]LogSavePackage: Display: Finished SavePackage C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto7.uasset
+[2020.04.13-09.35.06:092][823]LogFileHelpers: Auto-saving content packages took 0.430
+[2020.04.13-09.38.58:290][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.13-09.38.58:290][359]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.38.58:318][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.38.58:318][359]PIE: New page: PIE session: Battleground (Apr 13, 2020, 11:38:58 AM)
+[2020.04.13-09.38.58:318][359]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battleground
+[2020.04.13-09.38.58:398][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079854s)
+[2020.04.13-09.38.58:399][359]LogAIModule: Creating AISystem for world Battleground
+[2020.04.13-09.38.58:399][359]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2020.04.13-09.38.58:399][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battleground.Battleground to /Game/UEDPIE_0_Battleground.Battleground (0.081146s)
+[2020.04.13-09.38.58:487][359]LogInit: XAudio2 using 'Speakers (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-09.38.58:505][359]LogInit: FAudioDevice initialized.
+[2020.04.13-09.38.58:544][359]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.13-09.38.58:548][359]LogWorld: Bringing World /Game/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.13-10.38.58
+[2020.04.13-09.38.58:548][359]LogWorld: Bringing up level for play took: 0.003208
+[2020.04.13-09.38.58:550][359]PIE: Play in editor start time for /Game/UEDPIE_0_Battleground -0.71
+[2020.04.13-09.39.04:176][953]Cmd: LevelEditor.ToggleImmersive
+[2020.04.13-09.39.04:345][954]LogRenderer: Reallocating scene render targets to support 1800x1020 Format 10 NumSamples 1 (Frame:596).
+[2020.04.13-09.39.04:405][955]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:598).
+[2020.04.13-09.39.04:411][955]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-09.40.09:642][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-09.40.17:439][609]LogSlate: FSceneViewport::OnFocusLost() reason 0

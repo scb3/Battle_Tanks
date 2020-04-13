@@ -78,3 +78,5 @@ Battle_Tank/Saved/Backup/Battleground_2020-04-11-11-24-13.umap
 Battle_Tank/Saved/Autosaves/Game/Battleground_sharedassets/Grass_LayerInfo_Auto1.uasset
 Battle_Tank/Saved/Autosaves/Game/Battleground_Auto1.umap
 Battle_Tank/Saved/Autosaves/Game/Battleground_Auto2.umap
+*.umap
+*.uasset
