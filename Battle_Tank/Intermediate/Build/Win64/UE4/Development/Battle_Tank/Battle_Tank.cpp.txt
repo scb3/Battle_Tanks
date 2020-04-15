@@ -1,0 +1,2 @@
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4\Development\Battle_Tank\Definitions.Battle_Tank.h
+c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\source\battle_tank\Battle_Tank.h

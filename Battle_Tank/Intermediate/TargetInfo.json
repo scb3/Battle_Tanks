@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Battle_Tank",
+			"Path": "C:\\Users\\scbis\\Desktop\\Programming\\Games Projects\\Battle_Tank\\Battle_Tanks\\Battle_Tank\\Source\\Battle_Tank.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Battle_TankEditor",
+			"Path": "C:\\Users\\scbis\\Desktop\\Programming\\Games Projects\\Battle_Tank\\Battle_Tanks\\Battle_Tank\\Source\\Battle_TankEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

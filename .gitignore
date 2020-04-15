@@ -80,3 +80,10 @@ Battle_Tank/Saved/Autosaves/Game/Battleground_Auto1.umap
 Battle_Tank/Saved/Autosaves/Game/Battleground_Auto2.umap
 *.umap
 *.uasset
+*.uexp
+*.ubulk
+*.pak
+*.pdb
+*.pdb
+Battle_Tank/Intermediate/Build/BuildRules/Battle_TankModuleRules.pdb
+*.pdb

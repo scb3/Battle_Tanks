@@ -1,11 +1,11 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
 ===========================================================================*/
 
-#include "ObjectMacros.h"
-#include "ScriptMacros.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #ifdef BATTLE_TANK_Battle_TankGameModeBase_generated_h
@@ -13,26 +13,25 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BATTLE_TANK_Battle_TankGameModeBase_generated_h
 
+#define Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_SPARSE_DATA
 #define Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_RPC_WRAPPERS
 #define Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
 #define Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABattle_TankGameModeBase(); \
-	friend BATTLE_TANK_API class UClass* Z_Construct_UClass_ABattle_TankGameModeBase(); \
+	friend struct Z_Construct_UClass_ABattle_TankGameModeBase_Statics; \
 public: \
-	DECLARE_CLASS(ABattle_TankGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient), 0, TEXT("/Script/Battle_Tank"), NO_API) \
-	DECLARE_SERIALIZER(ABattle_TankGameModeBase) \
-	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
+	DECLARE_CLASS(ABattle_TankGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/Battle_Tank"), NO_API) \
+	DECLARE_SERIALIZER(ABattle_TankGameModeBase)
 
 
 #define Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesABattle_TankGameModeBase(); \
-	friend BATTLE_TANK_API class UClass* Z_Construct_UClass_ABattle_TankGameModeBase(); \
+	friend struct Z_Construct_UClass_ABattle_TankGameModeBase_Statics; \
 public: \
-	DECLARE_CLASS(ABattle_TankGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient), 0, TEXT("/Script/Battle_Tank"), NO_API) \
-	DECLARE_SERIALIZER(ABattle_TankGameModeBase) \
-	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
+	DECLARE_CLASS(ABattle_TankGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/Battle_Tank"), NO_API) \
+	DECLARE_SERIALIZER(ABattle_TankGameModeBase)
 
 
 #define Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_STANDARD_CONSTRUCTORS \
@@ -67,6 +66,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABattle_TankGameModeBase); \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_SPARSE_DATA \
 	Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_RPC_WRAPPERS \
 	Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_INCLASS \
 	Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_STANDARD_CONSTRUCTORS \
@@ -78,12 +78,15 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_SPARSE_DATA \
 	Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 	Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
+
+template<> BATTLE_TANK_API UClass* StaticClass<class ABattle_TankGameModeBase>();
 
 #undef CURRENT_FILE_ID
 #define CURRENT_FILE_ID Battle_Tank_Source_Battle_Tank_Battle_TankGameModeBase_h
