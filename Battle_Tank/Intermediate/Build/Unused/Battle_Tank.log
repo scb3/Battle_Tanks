@@ -1,4 +1,10 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
+﻿  Cleaning Battle_TankEditor and UnrealHeaderTool binaries...
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
+  Creating makefile for Battle_TankEditor (no existing makefile)
+  Parsing headers for Battle_TankEditor
+    Running UnrealHeaderTool "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\Battle_TankEditor\Development\Battle_TankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Battle_TankEditor in 7.6581618 seconds
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\Tank.cpp(1): error : Expected Tank.h to be first header included.
   Building Battle_TankEditor...
   Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   [Upgrade]
@@ -8,12 +14,23 @@
   [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
   [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Battle_TankEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
   [Upgrade]
-  Building 4 actions with 8 processes...
-    [1/4] TankPlayerController.cpp
-    [2/4] UE4Editor-Battle_Tank-0039.lib
-       Creating library C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0039.lib and object C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0039.exp
-    [3/4] UE4Editor-Battle_Tank-0039.dll
-       Creating library C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0039.suppressed.lib and object C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0039.suppressed.exp
-    [4/4] Battle_TankEditor.target
-  Total time in Parallel executor: 2.14 seconds
-  Total execution time: 3.00 seconds
+  Building 17 actions with 8 processes...
+    [1/17] Default.rc2
+    [2/17] SharedPCH.Engine.cpp
+    [3/17] Battle_Tank.cpp
+    [4/17] Tank.cpp
+    [5/17] TankPlayerController.cpp
+    [6/17] Battle_Tank.init.gen.cpp
+    [7/17] Tank.gen.cpp
+    [8/17] TankAimingComponent.cpp
+    [9/17] TankAimingComponent.gen.cpp
+    [10/17] TankPlayerController.gen.cpp
+    [11/17] Battle_TankGameModeBase.cpp
+    [12/17] TankAIController.cpp
+    [13/17] Battle_TankGameModeBase.gen.cpp
+    [14/17] TankAIController.gen.cpp
+    [15/17] UE4Editor-Battle_Tank-0001.dll
+LINK : fatal error LNK1104: cannot open file 'C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Binaries\Win64\UE4Editor-Battle_Tank-0001.dll'
+    [16/17] UE4Editor-Battle_Tank-0001.lib
+       Creating library C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0001.lib and object C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0001.exp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(49,5): error MSB3073: The command "F:\UE_4.24\Engine\Build\BatchFiles\Rebuild.bat Battle_TankEditor Win64 Development -Project="C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" -WaitMutex -FromMsBuild" exited with code -1.
