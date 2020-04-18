@@ -39,8 +39,6 @@ F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\GenericTeamAge
 F:\UE_4.24\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerDebugSnapshotInterface.h
 F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
 F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIController.generated.h
-c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\source\battle_tank\public\Tank.h
-c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\source\battle_tank\public\TankAimingComponent.h
-C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.generated.h
-C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\Tank.generated.h
 C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAIController.generated.h
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\Tank.generated.h

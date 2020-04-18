@@ -525,6 +525,21 @@
 /I Runtime\ClothingSystemRuntimeInterface
 /I Runtime\AudioMixerCore\Public
 /I Runtime\AudioMixerCore
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\GeometryCollectionEngine
+/I Runtime\Experimental\GeometryCollectionEngine\Public
+/I Runtime\Experimental\GeometryCollectionEngine
+/I Runtime\Experimental\GeometryCollectionEngine\Public\GeometryCollection
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\FieldSystemEngine
+/I Runtime\Experimental\FieldSystem\Source\FieldSystemEngine\Public
+/I Runtime\Experimental\FieldSystem\Source\FieldSystemEngine
+/I Runtime\Experimental\FieldSystem\Source\FieldSystemEngine\Public\Field
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\ChaosSolverEngine
+/I Runtime\Experimental\ChaosSolverEngine\Public
+/I Runtime\Experimental\ChaosSolverEngine
+/I Runtime\Experimental\ChaosSolverEngine\Public\Chaos
+/I Runtime\Experimental\FieldSystem\Source\FieldSystemSimulationCore\Public
+/I Runtime\Experimental\FieldSystem\Source\FieldSystemSimulationCore
+/I Runtime\Experimental\FieldSystem\Source\FieldSystemSimulationCore\Public\Field
 /I "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank"
 /I "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source"
 /I "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public"

@@ -5,9 +5,9 @@
 #include "CoreMinimal.h"
 #include "Camera/PlayerCameraManager.h"
 #include "GameFramework\PlayerController.h"
-#include "Tank.h"
 #include "TankPlayerController.generated.h"
 
+class ATank;
 /**
  * 
  */

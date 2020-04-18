@@ -3,6 +3,7 @@
 #include "TankPlayerController.h"
 #include "Battle_Tank.h"
 #include "Runtime/Engine/Classes/Engine/World.h"
+#include "Tank.h"
 
 
 void ATankPlayerController::Tick(float DeltaTime)

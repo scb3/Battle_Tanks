@@ -1,10 +1,7 @@
-﻿  Cleaning Battle_TankEditor and UnrealHeaderTool binaries...
-  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
-  Creating makefile for Battle_TankEditor (no existing makefile)
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
   Parsing headers for Battle_TankEditor
     Running UnrealHeaderTool "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\Battle_TankEditor\Development\Battle_TankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for Battle_TankEditor in 7.6581618 seconds
-C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\Tank.cpp(1): error : Expected Tank.h to be first header included.
+  Reflection code generated for Battle_TankEditor in 7.2729974 seconds
   Building Battle_TankEditor...
   Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   [Upgrade]
@@ -14,23 +11,15 @@ C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battl
   [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
   [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Battle_TankEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
   [Upgrade]
-  Building 17 actions with 8 processes...
-    [1/17] Default.rc2
-    [2/17] SharedPCH.Engine.cpp
-    [3/17] Battle_Tank.cpp
-    [4/17] Tank.cpp
-    [5/17] TankPlayerController.cpp
-    [6/17] Battle_Tank.init.gen.cpp
-    [7/17] Tank.gen.cpp
-    [8/17] TankAimingComponent.cpp
-    [9/17] TankAimingComponent.gen.cpp
-    [10/17] TankPlayerController.gen.cpp
-    [11/17] Battle_TankGameModeBase.cpp
-    [12/17] TankAIController.cpp
-    [13/17] Battle_TankGameModeBase.gen.cpp
-    [14/17] TankAIController.gen.cpp
-    [15/17] UE4Editor-Battle_Tank-0001.dll
-LINK : fatal error LNK1104: cannot open file 'C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Binaries\Win64\UE4Editor-Battle_Tank-0001.dll'
-    [16/17] UE4Editor-Battle_Tank-0001.lib
-       Creating library C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0001.lib and object C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0001.exp
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(49,5): error MSB3073: The command "F:\UE_4.24\Engine\Build\BatchFiles\Rebuild.bat Battle_TankEditor Win64 Development -Project="C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" -WaitMutex -FromMsBuild" exited with code -1.
+  Building 7 actions with 8 processes...
+    [1/7] TankTurret.cpp
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankTurret.h(19): error C4596: 'Rotate': illegal qualified name in member declaration
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankTurret.cpp(9): warning C4996: 'USceneComponent::RelativeRotation': This member will be made private. Please use GetRelativeRotation or SetRelativeRotation. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    F:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(159): note: see declaration of 'USceneComponent::RelativeRotation'
+    [2/7] Tank.cpp
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankTurret.h(19): error C4596: 'Rotate': illegal qualified name in member declaration
+    [3/7] TankTurret.gen.cpp
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank/Public/TankTurret.h(19): error C4596: 'Rotate': illegal qualified name in member declaration
+    [4/7] TankAimingComponent.cpp
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankTurret.h(19): error C4596: 'Rotate': illegal qualified name in member declaration
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command "F:\UE_4.24\Engine\Build\BatchFiles\Build.bat Battle_TankEditor Win64 Development -Project="C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.
