@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BATTLE_TANK_Projectile_generated_h
 
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_SPARSE_DATA
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_RPC_WRAPPERS
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_INCLASS_NO_PURE_DECLS \
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_SPARSE_DATA
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_RPC_WRAPPERS
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAProjectile(); \
 	friend struct Z_Construct_UClass_AProjectile_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(AProjectile)
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_INCLASS \
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesAProjectile(); \
 	friend struct Z_Construct_UClass_AProjectile_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(AProjectile)
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_STANDARD_CONSTRUCTORS \
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AProjectile(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AProjectile) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_ENHANCED_CONSTRUCTORS \
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AProjectile(AProjectile&&); \
@@ -58,28 +58,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AProjectile); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AProjectile)
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_PRIVATE_PROPERTY_OFFSET
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_9_PROLOG
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_GENERATED_BODY_LEGACY \
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_PRIVATE_PROPERTY_OFFSET
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_10_PROLOG
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_PRIVATE_PROPERTY_OFFSET \
-	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_SPARSE_DATA \
-	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_RPC_WRAPPERS \
-	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_INCLASS \
-	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_STANDARD_CONSTRUCTORS \
+	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_PRIVATE_PROPERTY_OFFSET \
+	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_SPARSE_DATA \
+	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_RPC_WRAPPERS \
+	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_INCLASS \
+	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_GENERATED_BODY \
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_PRIVATE_PROPERTY_OFFSET \
-	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_SPARSE_DATA \
-	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_INCLASS_NO_PURE_DECLS \
-	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_12_ENHANCED_CONSTRUCTORS \
+	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_PRIVATE_PROPERTY_OFFSET \
+	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_SPARSE_DATA \
+	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_INCLASS_NO_PURE_DECLS \
+	Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

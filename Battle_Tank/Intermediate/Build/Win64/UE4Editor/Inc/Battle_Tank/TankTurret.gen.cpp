@@ -58,7 +58,7 @@ void EmptyLinkFunctionForGeneratedCodeTankTurret() {}
 		{ "ModuleRelativePath", "Public/TankTurret.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UTankTurret_Statics::NewProp_MaxDegreesPerSecond = { "MaxDegreesPerSecond", nullptr, (EPropertyFlags)0x0040000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UTankTurret, MaxDegreesPerSecond), METADATA_PARAMS(Z_Construct_UClass_UTankTurret_Statics::NewProp_MaxDegreesPerSecond_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UTankTurret_Statics::NewProp_MaxDegreesPerSecond_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UTankTurret_Statics::NewProp_MaxDegreesPerSecond = { "MaxDegreesPerSecond", nullptr, (EPropertyFlags)0x0040000000010001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UTankTurret, MaxDegreesPerSecond), METADATA_PARAMS(Z_Construct_UClass_UTankTurret_Statics::NewProp_MaxDegreesPerSecond_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UTankTurret_Statics::NewProp_MaxDegreesPerSecond_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UTankTurret_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UTankTurret_Statics::NewProp_MaxDegreesPerSecond,
 	};
@@ -89,7 +89,7 @@ void EmptyLinkFunctionForGeneratedCodeTankTurret() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UTankTurret, 1678322425);
+	IMPLEMENT_CLASS(UTankTurret, 2352647913);
 	template<> BATTLE_TANK_API UClass* StaticClass<UTankTurret>()
 	{
 		return UTankTurret::StaticClass();

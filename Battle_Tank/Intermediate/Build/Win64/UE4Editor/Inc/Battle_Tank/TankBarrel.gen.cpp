@@ -66,21 +66,21 @@ void EmptyLinkFunctionForGeneratedCodeTankBarrel() {}
 		{ "ModuleRelativePath", "Public/TankBarrel.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UTankBarrel_Statics::NewProp_MinElevationDegrees = { "MinElevationDegrees", nullptr, (EPropertyFlags)0x0040000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UTankBarrel, MinElevationDegrees), METADATA_PARAMS(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MinElevationDegrees_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MinElevationDegrees_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UTankBarrel_Statics::NewProp_MinElevationDegrees = { "MinElevationDegrees", nullptr, (EPropertyFlags)0x0040000000010001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UTankBarrel, MinElevationDegrees), METADATA_PARAMS(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MinElevationDegrees_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MinElevationDegrees_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxElevationDegrees_MetaData[] = {
 		{ "Category", "Setup" },
 		{ "ModuleRelativePath", "Public/TankBarrel.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxElevationDegrees = { "MaxElevationDegrees", nullptr, (EPropertyFlags)0x0040000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UTankBarrel, MaxElevationDegrees), METADATA_PARAMS(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxElevationDegrees_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxElevationDegrees_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxElevationDegrees = { "MaxElevationDegrees", nullptr, (EPropertyFlags)0x0040000000010001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UTankBarrel, MaxElevationDegrees), METADATA_PARAMS(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxElevationDegrees_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxElevationDegrees_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxDegreesPerSecond_MetaData[] = {
 		{ "Category", "Setup" },
 		{ "ModuleRelativePath", "Public/TankBarrel.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxDegreesPerSecond = { "MaxDegreesPerSecond", nullptr, (EPropertyFlags)0x0040000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UTankBarrel, MaxDegreesPerSecond), METADATA_PARAMS(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxDegreesPerSecond_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxDegreesPerSecond_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxDegreesPerSecond = { "MaxDegreesPerSecond", nullptr, (EPropertyFlags)0x0040000000010001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UTankBarrel, MaxDegreesPerSecond), METADATA_PARAMS(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxDegreesPerSecond_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxDegreesPerSecond_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UTankBarrel_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UTankBarrel_Statics::NewProp_MinElevationDegrees,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UTankBarrel_Statics::NewProp_MaxElevationDegrees,
@@ -113,7 +113,7 @@ void EmptyLinkFunctionForGeneratedCodeTankBarrel() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UTankBarrel, 1432469027);
+	IMPLEMENT_CLASS(UTankBarrel, 2609570820);
 	template<> BATTLE_TANK_API UClass* StaticClass<UTankBarrel>()
 	{
 		return UTankBarrel::StaticClass();
