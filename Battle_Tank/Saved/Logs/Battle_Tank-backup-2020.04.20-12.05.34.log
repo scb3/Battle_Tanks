@@ -1,0 +1,1834 @@
+﻿Log file open, 04/20/20 13:04:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Battle_Tank
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208578
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 1500X Quad-Core Processor          , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.04.20-12.04.08:605][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.20-12.04.08:605][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.20-12.04.08:606][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.20-12.04.08:606][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.20-12.04.08:606][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.20-12.04.08:606][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.20-12.04.08:606][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.04.20-12.04.08:606][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.04.20-12.04.08:610][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.20-12.04.08:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.20-12.04.08:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.20-12.04.08:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.20-12.04.08:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.20-12.04.08:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.20-12.04.08:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.20-12.04.08:612][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:612][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.20-12.04.08:612][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.20-12.04.08:612][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:612][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.20-12.04.08:612][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.20-12.04.08:612][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.20-12.04.08:612][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.20-12.04.08:612][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.20-12.04.08:621][  0]LogHAL: Display: Platform has ~ 16 GB [17109499904 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.20-12.04.08:621][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.20-12.04.08:621][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:621][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.20-12.04.08:621][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.20-12.04.08:621][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:621][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.20-12.04.08:621][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:621][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.20-12.04.08:621][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.20-12.04.08:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.20-12.04.08:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.20-12.04.08:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.20-12.04.08:621][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.20-12.04.08:621][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.20-12.04.08:622][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.20-12.04.08:623][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.04.20-12.04.08:623][  0]LogInit: Computer: DESKTOP-RCRJTMI
+[2020.04.20-12.04.08:623][  0]LogInit: User: scbis
+[2020.04.20-12.04.08:623][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.20-12.04.08:623][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.20-12.04.08:624][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.20-12.04.08:624][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.20-12.04.08:624][  0]LogMemory: Process Physical Memory: 105.77 MB used, 105.78 MB peak
+[2020.04.20-12.04.08:624][  0]LogMemory: Process Virtual Memory: 100.58 MB used, 100.58 MB peak
+[2020.04.20-12.04.08:624][  0]LogMemory: Physical Memory: 8450.46 MB used,  7866.43 MB free, 16316.89 MB total
+[2020.04.20-12.04.08:624][  0]LogMemory: Virtual Memory: 5137.57 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.04.20-12.04.08:627][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.20-12.04.08:908][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.20-12.04.08:908][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.20-12.04.08:909][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.20-12.04.09:311][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.20-12.04.09:438][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.20-12.04.09:439][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.20-12.04.13:196][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.20-12.04.13:196][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.20-12.04.13:196][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.20-12.04.13:196][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.20-12.04.13:332][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.04.20-12.04.13:332][  0]LogD3D11RHI:       6052/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.20-12.04.13:340][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.20-12.04.13:340][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.20-12.04.13:340][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.20-12.04.13:355][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.20-12.04.13:355][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.20-12.04.13:355][  0]LogWindows: EnumDisplayDevices:
+[2020.04.20-12.04.13:356][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.04.20-12.04.13:356][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.04.20-12.04.13:357][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.04.20-12.04.13:357][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.04.20-12.04.13:357][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.20-12.04.13:358][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.04.20-12.04.13:358][  0]LogD3D11RHI:   Driver Version: 442.74 (internal:26.21.14.4274, unified:442.74)
+[2020.04.20-12.04.13:358][  0]LogD3D11RHI:      Driver Date: 3-13-2020
+[2020.04.20-12.04.13:358][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.04.20-12.04.13:444][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.20-12.04.13:444][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.20-12.04.13:463][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.20-12.04.13:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.20-12.04.13:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.20-12.04.13:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.20-12.04.13:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.20-12.04.14:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.20-12.04.14:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.20-12.04.14:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.20-12.04.14:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.20-12.04.14:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.20-12.04.14:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.20-12.04.14:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.20-12.04.14:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.20-12.04.14:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.20-12.04.14:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.20-12.04.14:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.20-12.04.14:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.20-12.04.14:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.20-12.04.14:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.20-12.04.14:338][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.20-12.04.14:413][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.20-12.04.14:790][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Intermediate/Shaders/WorkingDirectory/18368/).
+[2020.04.20-12.04.14:790][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/scbis/AppData/Local/Temp/UnrealShaderWorkingDir/F3E3D2C64A873A3AA5C14CBEB9C0ADF8/'.
+[2020.04.20-12.04.14:791][  0]LogXGEController: Cleaning working directory: C:/Users/scbis/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.20-12.04.14:791][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.20-12.04.14:791][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.20-12.04.14:791][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.20-12.04.18:463][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.20-12.04.18:794][  0]LogDerivedDataCache: Loaded boot cache 0.33s 78MB C:/Users/scbis/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.20-12.04.18:794][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/scbis/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.20-12.04.18:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.20-12.04.18:795][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.20-12.04.18:795][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.20-12.04.18:795][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.20-12.04.18:827][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.20-12.04.18:828][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.20-12.04.18:828][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.20-12.04.18:830][  0]LogDerivedDataCache: Using Local data cache path C:/Users/scbis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.20-12.04.18:830][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.20-12.04.18:830][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.20-12.04.18:875][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.20-12.04.18:880][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.20-12.04.18:906][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.20-12.04.19:296][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
+[2020.04.20-12.04.19:867][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.20-12.04.20:610][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.20-12.04.20:610][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.20-12.04.20:610][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.20-12.04.20:610][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.20-12.04.20:610][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.20-12.04.20:677][  0]LogNetVersion: Battle_Tank 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 704313620)
+[2020.04.20-12.04.26:425][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.113711 seconds
+[2020.04.20-12.04.26:442][  0]LogUObjectArray: 46746 objects as part of root set at end of initial load.
+[2020.04.20-12.04.26:442][  0]LogUObjectAllocator: 8135816 out of 0 bytes used by permanent object pool.
+[2020.04.20-12.04.26:442][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.20-12.04.29:469][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.20-12.04.29:499][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.20-12.04.30:063][  0]SourceControl: Source control is disabled
+[2020.04.20-12.04.30:063][  0]SourceControl: Source control is disabled
+[2020.04.20-12.04.30:097][  0]SourceControl: Source control is disabled
+[2020.04.20-12.04.30:127][  0]SourceControl: Source control is disabled
+[2020.04.20-12.04.30:152][  0]SourceControl: Source control is disabled
+[2020.04.20-12.04.31:196][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.20-12.04.31:371][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.20-12.04.31:371][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.20-12.04.31:772][  0]LogOcInput: OculusInput pre-init called
+[2020.04.20-12.04.31:830][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.20-12.04.31:830][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.20-12.04.32:064][  0]LogEngine: Initializing Engine...
+[2020.04.20-12.04.32:065][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.20-12.04.32:067][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.20-12.04.32:842][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.20-12.04.32:876][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.20-12.04.32:897][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.20-12.04.32:897][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.20-12.04.32:897][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.20-12.04.32:897][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.20-12.04.32:897][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.20-12.04.32:897][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.20-12.04.32:897][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.20-12.04.32:897][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.20-12.04.32:897][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.20-12.04.32:897][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.20-12.04.32:971][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.20-12.04.32:971][  0]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2020.04.20-12.04.32:971][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.20-12.04.32:971][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.20-12.04.32:971][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.20-12.04.32:971][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.20-12.04.32:971][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.20-12.04.32:971][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.20-12.04.32:971][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.20-12.04.32:995][  0]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2020.04.20-12.04.33:002][  0]LogInit: FAudioDevice initialized.
+[2020.04.20-12.04.33:003][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.20-12.04.33:098][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/scbis/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.20-12.04.33:105][  0]LogInit: Texture streaming: Enabled
+[2020.04.20-12.04.33:200][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.20-12.04.33:200][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.20-12.04.33:202][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.20-12.04.33:344][  0]LogInit: Transaction tracking system initialized
+[2020.04.20-12.04.33:503][  0]BlueprintLog: New page: Editor Load
+[2020.04.20-12.04.33:996][  0]LocalizationService: Localization service is disabled
+[2020.04.20-12.04.35:109][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/' took 0.01s
+[2020.04.20-12.04.35:109][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.20-12.04.35:109][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.20-12.04.36:705][  0]SourceControl: Source control is disabled
+[2020.04.20-12.04.36:705][  0]Cmd: MAP LOAD FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Levels/Battleground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.20-12.04.36:706][  0]LightingResults: New page: Lighting Build
+[2020.04.20-12.04.36:707][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-12.04.36:707][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.20-12.04.36:707][  0]MapCheck: New page: Map Check
+[2020.04.20-12.04.36:707][  0]LightingResults: New page: Lighting Build
+[2020.04.20-12.04.36:748][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.04.20-12.04.37:506][  0]LogAIModule: Creating AISystem for world Battleground
+[2020.04.20-12.04.37:779][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.20-12.04.37:819][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.04.20-12.04.37:820][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.20-12.04.37:820][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.267ms to complete.
+[2020.04.20-12.04.37:820][  0]LogFileHelpers: Loading map 'Battleground' took 1.115
+[2020.04.20-12.04.38:008][  0]LogCollectionManager: Loaded 0 collections in 0.001068 seconds
+[2020.04.20-12.04.38:027][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Collections/' took 0.00s
+[2020.04.20-12.04.38:027][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Developers/scbis/Collections/' took 0.00s
+[2020.04.20-12.04.38:027][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Collections/' took 0.00s
+[2020.04.20-12.04.38:027][  0]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 3026 classes and 723 folders.
+[2020.04.20-12.04.38:032][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.20-12.04.38:431][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.20-12.04.38:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-12.04.38:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-12.04.38:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-12.04.38:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-12.04.39:866][  0]LogSlate: Took 0.015641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.20-12.04.39:880][  0]LogSlate: Took 0.010309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.20-12.04.39:889][  0]LogSlate: Took 0.009093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.20-12.04.39:913][  0]LogSlate: Took 0.010601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.04.20-12.04.40:002][  0]LogSlate: Took 0.007298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.20-12.04.40:153][  0]LogRenderer: Reallocating scene render targets to support 1524x648 Format 10 NumSamples 1 (Frame:1).
+[2020.04.20-12.04.40:313][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.20-12.04.40:314][  0]LogLoad: (Engine Initialization) Total time: 34.45 seconds
+[2020.04.20-12.04.40:314][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.20-12.04.40:589][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.20-12.04.41:355][ 14]LogAssetRegistry: Asset discovery search completed in 22.0603 seconds
+[2020.04.20-12.04.41:363][ 14]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000019 seconds (updated 0 objects)
+[2020.04.20-12.04.49:873][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.20-12.04.49:893][ 11]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.04.20-12.04.49:893][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.20-12.04.49:894][ 11]PIE: New page: PIE session: Battleground (Apr 20, 2020, 2:04:49 PM)
+[2020.04.20-12.04.49:895][ 11]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.20-12.04.49:896][ 11]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.20-12.04.49:896][ 11]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Battleground
+[2020.04.20-12.04.50:725][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.828381s)
+[2020.04.20-12.04.50:726][ 11]LogAIModule: Creating AISystem for world Battleground
+[2020.04.20-12.04.50:726][ 11]LogPlayLevel: PIE: World Init took: (0.001554s)
+[2020.04.20-12.04.50:726][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Battleground.Battleground to /Game/Levels/UEDPIE_0_Battleground.Battleground (0.830290s)
+[2020.04.20-12.04.50:765][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.04.20-12.04.50:767][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.20-12.04.50:767][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.20-12.04.50:767][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.20-12.04.50:767][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.20-12.04.50:767][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.20-12.04.50:767][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.20-12.04.50:767][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.20-12.04.50:767][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.20-12.04.50:768][ 11]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.20-12.04.50:768][ 11]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.20-12.04.50:822][ 11]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.20-12.04.50:822][ 11]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2020.04.20-12.04.50:822][ 11]LogAudioMixer: Display: Is Default: Yes
+[2020.04.20-12.04.50:822][ 11]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.20-12.04.50:822][ 11]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.20-12.04.50:822][ 11]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.20-12.04.50:822][ 11]LogAudioMixer: Display: Channel Order:
+[2020.04.20-12.04.50:822][ 11]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.20-12.04.50:822][ 11]LogAudioMixer: Display: 1: FrontRight
+[2020.04.20-12.04.50:835][ 11]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2020.04.20-12.04.50:837][ 11]LogInit: FAudioDevice initialized.
+[2020.04.20-12.04.50:850][ 11]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.04.20-12.04.50:854][ 11]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.04.20-13.04.50
+[2020.04.20-12.04.50:854][ 11]LogWorld: Bringing up level for play took: 0.003355
+[2020.04.20-12.04.50:855][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.04.20-12.04.50:858][ 11]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.04.20-12.04.50:860][ 11]LogTemp: Warning: Player Controller possessing: Tank_BP_C_0
+[2020.04.20-12.04.50:860][ 11]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Battleground 1.788
+[2020.04.20-12.04.50:861][ 11]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.04.20-12.04.50:861][ 11]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:861][ 11]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.50:877][ 12]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:877][ 12]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.50:922][ 13]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:923][ 13]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.50:931][ 14]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:931][ 14]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.50:939][ 15]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:939][ 15]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.50:947][ 16]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:947][ 16]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.50:956][ 17]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:956][ 17]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.50:964][ 18]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:964][ 18]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.50:972][ 19]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:972][ 19]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.50:980][ 20]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:981][ 20]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.50:989][ 21]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:989][ 21]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.50:997][ 22]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.50:997][ 22]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:006][ 23]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:006][ 23]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:014][ 24]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:014][ 24]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:022][ 25]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:022][ 25]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:031][ 26]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:031][ 26]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:039][ 27]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:039][ 27]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:047][ 28]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:047][ 28]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:056][ 29]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:056][ 29]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:065][ 30]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:065][ 30]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:079][ 31]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:079][ 31]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:087][ 32]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:087][ 32]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:096][ 33]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:096][ 33]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:104][ 34]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:104][ 34]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:112][ 35]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:112][ 35]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:120][ 36]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:121][ 36]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:129][ 37]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:129][ 37]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:137][ 38]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:137][ 38]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:146][ 39]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:146][ 39]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:154][ 40]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:154][ 40]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:162][ 41]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:162][ 41]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:170][ 42]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:170][ 42]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:179][ 43]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:179][ 43]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:187][ 44]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:187][ 44]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:195][ 45]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:196][ 45]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:204][ 46]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:204][ 46]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:212][ 47]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:212][ 47]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:220][ 48]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:221][ 48]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:229][ 49]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:229][ 49]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:237][ 50]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:237][ 50]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:245][ 51]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:246][ 51]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:254][ 52]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:254][ 52]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:262][ 53]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:262][ 53]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:271][ 54]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:271][ 54]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:279][ 55]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:279][ 55]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:287][ 56]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:287][ 56]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:296][ 57]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:296][ 57]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:304][ 58]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:304][ 58]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:312][ 59]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:312][ 59]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:321][ 60]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:321][ 60]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:329][ 61]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:329][ 61]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:337][ 62]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:337][ 62]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:346][ 63]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:346][ 63]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:354][ 64]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:354][ 64]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:362][ 65]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:362][ 65]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:371][ 66]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:371][ 66]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:379][ 67]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:379][ 67]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:387][ 68]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:387][ 68]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:396][ 69]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:396][ 69]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:404][ 70]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:404][ 70]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:412][ 71]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:412][ 71]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:421][ 72]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:421][ 72]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:429][ 73]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:429][ 73]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:437][ 74]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:437][ 74]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:446][ 75]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:446][ 75]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:454][ 76]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:454][ 76]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:462][ 77]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:462][ 77]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:470][ 78]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:470][ 78]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:479][ 79]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:479][ 79]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:487][ 80]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:487][ 80]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:495][ 81]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:495][ 81]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:504][ 82]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:504][ 82]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:512][ 83]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:512][ 83]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:520][ 84]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:520][ 84]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:529][ 85]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:529][ 85]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:537][ 86]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:537][ 86]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:546][ 87]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:546][ 87]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:554][ 88]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:554][ 88]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:562][ 89]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:562][ 89]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:570][ 90]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:570][ 90]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:579][ 91]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:579][ 91]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:587][ 92]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:587][ 92]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:596][ 93]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:596][ 93]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:604][ 94]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:604][ 94]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:612][ 95]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:612][ 95]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:621][ 96]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:621][ 96]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:629][ 97]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:629][ 97]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:639][ 98]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:639][ 98]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:645][ 99]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:645][ 99]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:654][100]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:654][100]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:662][101]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:662][101]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:670][102]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:671][102]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:679][103]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:679][103]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:687][104]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:687][104]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:695][105]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:695][105]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:704][106]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:704][106]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:712][107]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:712][107]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:720][108]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:720][108]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:729][109]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:729][109]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:737][110]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:737][110]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:745][111]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:745][111]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:754][112]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:754][112]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:762][113]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:762][113]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:771][114]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:771][114]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:779][115]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:779][115]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:787][116]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:787][116]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:796][117]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:796][117]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:804][118]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:804][118]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:813][119]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:813][119]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:821][120]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:821][120]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:829][121]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:829][121]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:838][122]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:838][122]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:846][123]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:846][123]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:854][124]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:854][124]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:863][125]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:863][125]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:871][126]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:871][126]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:879][127]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:879][127]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:888][128]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:888][128]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:896][129]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:896][129]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:904][130]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:904][130]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:913][131]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:913][131]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:921][132]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:921][132]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:929][133]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:929][133]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:938][134]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:938][134]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:946][135]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:946][135]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:954][136]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:954][136]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:963][137]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:963][137]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:971][138]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:971][138]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:979][139]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:979][139]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:988][140]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:988][140]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.51:996][141]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.51:996][141]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:004][142]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:004][142]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:013][143]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:013][143]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:021][144]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:021][144]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:029][145]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:029][145]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:038][146]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:038][146]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:046][147]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:046][147]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:054][148]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:054][148]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:063][149]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:063][149]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:071][150]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:071][150]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:079][151]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:079][151]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:088][152]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:088][152]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:096][153]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:096][153]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:104][154]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:104][154]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:112][155]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:113][155]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:121][156]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:121][156]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:129][157]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:129][157]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:138][158]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:138][158]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:146][159]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:146][159]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:154][160]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:154][160]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:163][161]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:163][161]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:171][162]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:171][162]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:179][163]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:179][163]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:188][164]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:188][164]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:196][165]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:196][165]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:204][166]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:204][166]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:212][167]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:213][167]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:221][168]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:221][168]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:229][169]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:229][169]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:237][170]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:237][170]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:245][171]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:246][171]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:254][172]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:254][172]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:262][173]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:262][173]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:270][174]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:270][174]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:279][175]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:279][175]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:287][176]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:287][176]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:295][177]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:295][177]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:304][178]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:304][178]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:312][179]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:312][179]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:320][180]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:320][180]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:329][181]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:329][181]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:337][182]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:337][182]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:345][183]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:345][183]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:354][184]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:354][184]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:362][185]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:362][185]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:370][186]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:371][186]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:379][187]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:379][187]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:387][188]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:387][188]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:395][189]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:395][189]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:404][190]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:404][190]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:412][191]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:412][191]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:420][192]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:420][192]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:429][193]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:429][193]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:437][194]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:437][194]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:445][195]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:445][195]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:454][196]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:454][196]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:462][197]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:462][197]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:471][198]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:471][198]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:479][199]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:479][199]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:488][200]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:488][200]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:496][201]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:496][201]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:505][202]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:505][202]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:513][203]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:513][203]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:521][204]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:521][204]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:529][205]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:529][205]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:538][206]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:538][206]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:546][207]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:546][207]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:554][208]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:554][208]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:563][209]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:563][209]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:571][210]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:571][210]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:579][211]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:579][211]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:588][212]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:588][212]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:596][213]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:596][213]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:604][214]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:604][214]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:613][215]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:613][215]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:621][216]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:621][216]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:629][217]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:630][217]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:638][218]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:638][218]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:646][219]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:646][219]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:654][220]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:654][220]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:663][221]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:663][221]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:671][222]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:671][222]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:679][223]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:679][223]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:688][224]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:688][224]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:696][225]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:696][225]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:704][226]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:704][226]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:713][227]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:713][227]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:721][228]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:721][228]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:729][229]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:729][229]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:737][230]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:737][230]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:746][231]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:746][231]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:754][232]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:754][232]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:762][233]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:762][233]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:770][234]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:770][234]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:778][235]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:779][235]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:787][236]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:787][236]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:795][237]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:795][237]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:804][238]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:804][238]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:812][239]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:812][239]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:820][240]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:820][240]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:828][241]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:829][241]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:837][242]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:837][242]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:845][243]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:845][243]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:853][244]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:854][244]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:862][245]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:862][245]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:870][246]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:870][246]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:879][247]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:879][247]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:887][248]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:887][248]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:895][249]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:895][249]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:904][250]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:904][250]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:912][251]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:912][251]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:921][252]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:921][252]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:929][253]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:929][253]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:937][254]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:937][254]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:945][255]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:945][255]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:954][256]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:954][256]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:962][257]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:962][257]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:970][258]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:970][258]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:978][259]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:979][259]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:987][260]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:987][260]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.52:995][261]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.52:995][261]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:003][262]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:004][262]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:012][263]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:012][263]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:020][264]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:020][264]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:028][265]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:028][265]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:037][266]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:037][266]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:046][267]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:046][267]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:054][268]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:054][268]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:062][269]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:062][269]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:071][270]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:071][270]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:079][271]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:079][271]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:087][272]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:088][272]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:096][273]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:096][273]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:104][274]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:105][274]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:112][275]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:112][275]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:121][276]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:121][276]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:129][277]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:129][277]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:137][278]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:138][278]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:145][279]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:146][279]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:154][280]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:154][280]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:162][281]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:162][281]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:171][282]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:171][282]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:179][283]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:179][283]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:187][284]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:187][284]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:195][285]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:195][285]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:204][286]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:204][286]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:212][287]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:212][287]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:220][288]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:220][288]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:229][289]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:229][289]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:237][290]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:237][290]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:246][291]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:246][291]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:254][292]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:254][292]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:262][293]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:262][293]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:271][294]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:271][294]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:279][295]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:279][295]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:287][296]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:287][296]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:295][297]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:295][297]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:303][298]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:303][298]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:312][299]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:312][299]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:320][300]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:320][300]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:328][301]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:328][301]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:337][302]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:337][302]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:345][303]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:345][303]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:354][304]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:354][304]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:362][305]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:362][305]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:370][306]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:370][306]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:379][307]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:379][307]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:387][308]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:387][308]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:395][309]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:395][309]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:403][310]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:403][310]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:412][311]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:412][311]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:420][312]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:420][312]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:429][313]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:429][313]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:437][314]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:437][314]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:445][315]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:446][315]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:454][316]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:454][316]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:462][317]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:462][317]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:471][318]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:471][318]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:479][319]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:479][319]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:487][320]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:487][320]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:496][321]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:496][321]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:504][322]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:504][322]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:512][323]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:512][323]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:521][324]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:521][324]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:530][325]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:530][325]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:538][326]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:538][326]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:546][327]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:546][327]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:555][328]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:555][328]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:563][329]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:563][329]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:571][330]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:571][330]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:579][331]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:579][331]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:588][332]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:588][332]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:596][333]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:596][333]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:604][334]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:604][334]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:613][335]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:613][335]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:621][336]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:621][336]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:629][337]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:629][337]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:637][338]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:638][338]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:646][339]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:646][339]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:654][340]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:654][340]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:663][341]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:663][341]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:671][342]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:671][342]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:679][343]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:679][343]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:687][344]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:688][344]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:696][345]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:696][345]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:704][346]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:704][346]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:713][347]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:713][347]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:721][348]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:721][348]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:729][349]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:729][349]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:738][350]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:738][350]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:746][351]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:746][351]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:754][352]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:754][352]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:763][353]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:763][353]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:771][354]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:771][354]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:779][355]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:779][355]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:787][356]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:787][356]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:795][357]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:795][357]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:804][358]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:804][358]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:812][359]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:812][359]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:820][360]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:820][360]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:829][361]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:829][361]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:837][362]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:837][362]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:845][363]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:845][363]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:853][364]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:853][364]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:862][365]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:862][365]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:870][366]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:870][366]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:878][367]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:879][367]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:887][368]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:887][368]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:895][369]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:895][369]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:904][370]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:904][370]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:912][371]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:912][371]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:920][372]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:920][372]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:928][373]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:928][373]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:937][374]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:937][374]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:945][375]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:945][375]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:953][376]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:953][376]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:962][377]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:962][377]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:970][378]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:970][378]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:978][379]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:978][379]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:987][380]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:987][380]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.53:995][381]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.53:995][381]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:003][382]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:003][382]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:012][383]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:012][383]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:020][384]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:020][384]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:028][385]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:029][385]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:037][386]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:037][386]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:045][387]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:045][387]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:053][388]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:053][388]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:062][389]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:062][389]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:070][390]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:070][390]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:078][391]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:078][391]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:087][392]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:087][392]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:095][393]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:095][393]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:103][394]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:103][394]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:112][395]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:112][395]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:120][396]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:120][396]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:128][397]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:128][397]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:137][398]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:137][398]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:145][399]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:145][399]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:153][400]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:153][400]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:162][401]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:162][401]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:170][402]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:170][402]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:178][403]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:178][403]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:187][404]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:187][404]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:195][405]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:195][405]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:203][406]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:203][406]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:212][407]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:212][407]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:220][408]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:220][408]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:229][409]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:229][409]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:237][410]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:237][410]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:245][411]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:245][411]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:254][412]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:254][412]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:262][413]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:262][413]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:270][414]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:271][414]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:279][415]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:279][415]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:287][416]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:287][416]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:296][417]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:296][417]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:304][418]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:304][418]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:312][419]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:312][419]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:320][420]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:320][420]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:329][421]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:329][421]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:337][422]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:337][422]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:346][423]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:346][423]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:354][424]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:354][424]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:363][425]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:363][425]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:371][426]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:371][426]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:379][427]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:379][427]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:388][428]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:388][428]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:396][429]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:396][429]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:404][430]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:404][430]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:412][431]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:413][431]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:421][432]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:421][432]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:429][433]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:429][433]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:437][434]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:437][434]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:445][435]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:445][435]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:454][436]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:454][436]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:462][437]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:462][437]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:470][438]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:471][438]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:479][439]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:479][439]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:487][440]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:487][440]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:495][441]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:495][441]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:504][442]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:504][442]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:512][443]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:512][443]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:520][444]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:520][444]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:529][445]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:529][445]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:537][446]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:537][446]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:545][447]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:545][447]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:553][448]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:553][448]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:562][449]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:562][449]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:570][450]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:570][450]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:578][451]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:578][451]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:587][452]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:587][452]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:595][453]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:595][453]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:603][454]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:603][454]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:612][455]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:612][455]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:620][456]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:620][456]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:629][457]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:629][457]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:637][458]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:637][458]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:645][459]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:645][459]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:654][460]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:654][460]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:662][461]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:662][461]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:670][462]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:671][462]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:679][463]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:679][463]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:687][464]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:687][464]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:695][465]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:696][465]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:704][466]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:704][466]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:712][467]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:712][467]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:720][468]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:721][468]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:729][469]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:729][469]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:737][470]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:738][470]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:746][471]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:746][471]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:754][472]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:754][472]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:762][473]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:762][473]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:771][474]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:771][474]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:779][475]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:779][475]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:788][476]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:788][476]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:796][477]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:796][477]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:804][478]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:804][478]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:813][479]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:813][479]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:821][480]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:821][480]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:830][481]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:830][481]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:837][482]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:837][482]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:846][483]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:846][483]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:854][484]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:854][484]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:862][485]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:862][485]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:871][486]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:871][486]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:879][487]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:879][487]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:887][488]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:887][488]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:895][489]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:895][489]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:903][490]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:903][490]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:912][491]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:912][491]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:920][492]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:920][492]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:929][493]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:929][493]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:937][494]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:937][494]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:945][495]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:945][495]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:953][496]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:953][496]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:962][497]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:962][497]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:970][498]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:970][498]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:978][499]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:978][499]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:987][500]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:987][500]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.54:995][501]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.54:995][501]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:003][502]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:003][502]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:012][503]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:012][503]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:020][504]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:020][504]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:029][505]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:029][505]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:037][506]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:037][506]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:045][507]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:045][507]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:054][508]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:054][508]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:062][509]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:062][509]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:070][510]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:071][510]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:079][511]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:079][511]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:087][512]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:087][512]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:095][513]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:095][513]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:104][514]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:104][514]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:112][515]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:112][515]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:120][516]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:120][516]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:129][517]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:129][517]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:137][518]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:137][518]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:145][519]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:145][519]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:154][520]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:154][520]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:162][521]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:162][521]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:170][522]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:170][522]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:179][523]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:179][523]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:187][524]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:187][524]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:195][525]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:195][525]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:204][526]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:204][526]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:212][527]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:212][527]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:220][528]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:220][528]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:228][529]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:228][529]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:237][530]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:237][530]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:245][531]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:245][531]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:254][532]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:254][532]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:262][533]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:262][533]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:271][534]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:271][534]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:279][535]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:279][535]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:288][536]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:288][536]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:295][537]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:295][537]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:304][538]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:304][538]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:312][539]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:312][539]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:321][540]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:321][540]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:329][541]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:329][541]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:337][542]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:337][542]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:345][543]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:345][543]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:354][544]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:354][544]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:362][545]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:362][545]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:370][546]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:370][546]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:379][547]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:379][547]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:388][548]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:388][548]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:395][549]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:396][549]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:404][550]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:404][550]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:412][551]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:412][551]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:420][552]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:420][552]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:429][553]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:429][553]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:437][554]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:437][554]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:445][555]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:445][555]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:454][556]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:454][556]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:462][557]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:462][557]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:470][558]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:470][558]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:479][559]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:479][559]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:487][560]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:487][560]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:495][561]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:495][561]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:504][562]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:504][562]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:512][563]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:512][563]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:520][564]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:520][564]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:528][565]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:528][565]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:537][566]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:537][566]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:546][567]LogTemp: Warning: RightTrack throttle: 0.000000
+[2020.04.20-12.04.55:546][567]LogTemp: Warning: LeftTrack throttle: 0.000000
+[2020.04.20-12.04.55:546][567]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.20-12.04.55:547][567]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.20-12.04.55:567][567]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.20-12.04.55:568][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.04.20-12.04.55:568][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-12.04.55:568][567]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battleground
+[2020.04.20-12.04.55:568][567]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.20-12.04.55:568][567]LogWorld: UWorld::CleanupWorld for Battleground, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-12.04.55:569][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.20-12.04.55:578][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.20-12.04.55:579][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.04.20-12.04.55:583][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.20-12.04.55:620][567]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.20-12.04.55:623][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-12.04.55:631][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.04.20-12.04.55:655][568]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.04.20-12.05.03:863][446]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.20-12.05.03:891][446]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tank/Tank_BP.Tank_BP
+[2020.04.20-12.05.04:089][446]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2020.04.20-12.05.05:167][446]LogSlate: Took 0.006839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.20-12.05.05:247][447]LogSlate: Took 0.005225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.20-12.05.11:382][123]LogRenderer: Reallocating scene render targets to support 1524x708 Format 10 NumSamples 1 (Frame:1).
+[2020.04.20-12.05.27:302][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.04.20-12.05.27:356][874]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP22C02B76498716423F68FD8562E9B8D2.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.04.20-12.05.27:380][874]AssetCheck: New page: Asset Save: Tank_BP
+[2020.04.20-12.05.27:380][874]LogContentValidation: Display: Validating Blueprint /Game/Tank/Tank_BP.Tank_BP
+[2020.04.20-12.05.32:198][385]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.20-12.05.32:199][385]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.04.20-12.05.34:462][385]LogWindows: Error: === Critical error: ===
+[2020.04.20-12.05.34:462][385]LogWindows: Error: 
+[2020.04.20-12.05.34:462][385]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/Obj.cpp] [Line: 203] 
+[2020.04.20-12.05.34:462][385]LogWindows: Error: Renaming an object (TankTrack /Game/Levels/Battleground.Battleground:PersistentLevel.Tank_BP2_2.RightTrack) on top of an existing object (TankTrack /Game/Levels/Battleground.Battleground:PersistentLevel.Tank_BP2_2.RightTrack_REMOVED_19F19444449EECF45034C3B023254196) is not allowed
+[2020.04.20-12.05.34:462][385]LogWindows: Error: 
+[2020.04.20-12.05.34:462][385]LogWindows: Error: 
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ffa4a5da799 KERNELBASE.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9d94ca7b6 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9d94cdc58 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9d9282c7d UE4Editor-Core.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9daed4289 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9d6691b28 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9d37b8cbe UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9d386df18 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9d384780c UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9d380e028 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9e8ff9ada UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9e90303de UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9d38521bb UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9e8fc1041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9e903224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff9e9027b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ffa22524918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ffa2251242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ffa22527195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ffa2250ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ffa4c735c0d USER32.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ffa4c735602 USER32.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ffa22528699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.20-12.05.34:462][385]LogWindows: Error: [Callstack] 0x00007ff748f16db0 UE4Editor.exe!UnknownFunction []
+[2020.04.20-12.05.34:463][385]LogWindows: Error: [Callstack] 0x00007ff748f2c3ec UE4Editor.exe!UnknownFunction []
+[2020.04.20-12.05.34:463][385]LogWindows: Error: [Callstack] 0x00007ff748f2c4ca UE4Editor.exe!UnknownFunction []
+[2020.04.20-12.05.34:463][385]LogWindows: Error: [Callstack] 0x00007ff748f3ceae UE4Editor.exe!UnknownFunction []
+[2020.04.20-12.05.34:463][385]LogWindows: Error: [Callstack] 0x00007ff748f3fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.20-12.05.34:463][385]LogWindows: Error: [Callstack] 0x00007ffa4b5b7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.20-12.05.34:463][385]LogWindows: Error: [Callstack] 0x00007ffa4caece51 ntdll.dll!UnknownFunction []
+[2020.04.20-12.05.34:463][385]LogWindows: Error: 
+[2020.04.20-12.05.34:485][385]LogExit: Executing StaticShutdownAfterError
+[2020.04.20-12.05.34:490][385]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.04.20-12.05.34:490][385]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.04.20-12.05.34:494][385]Log file closed, 04/20/20 13:05:34
