@@ -1,4 +1,6 @@
 C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\Definitions.Battle_Tank.h
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankTrack.h
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankTrack.generated.h
 C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankMovementComponent.h
 F:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
 F:\UE_4.24\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h

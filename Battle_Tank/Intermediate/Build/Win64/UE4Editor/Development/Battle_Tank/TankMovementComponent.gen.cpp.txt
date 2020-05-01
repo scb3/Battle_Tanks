@@ -8,4 +8,6 @@ F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAge
 F:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
 F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
 F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\source\battle_tank\public\TankTrack.h
+c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\intermediate\build\win64\ue4editor\inc\battle_tank\TankTrack.generated.h
 c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\intermediate\build\win64\ue4editor\inc\battle_tank\TankMovementComponent.generated.h

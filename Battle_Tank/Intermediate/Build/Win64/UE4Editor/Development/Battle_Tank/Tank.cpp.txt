@@ -11,6 +11,8 @@ F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAge
 F:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
 F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
 F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\source\battle_tank\public\TankTrack.h
+C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankTrack.generated.h
 C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankMovementComponent.generated.h
 C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Projectile.h
 F:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
