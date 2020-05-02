@@ -92,3 +92,5 @@ Battle_Tank/Intermediate/Build/BuildRules/Battle_TankModuleRules.pdb
 *.pdb
 Battle_Tank/Binaries/Win64/UE4Editor-Battle_Tank.pdb
 *.pdb
+Battle_Tank/Binaries/Win64/Battle_Tank.pdb
+*.pdb
