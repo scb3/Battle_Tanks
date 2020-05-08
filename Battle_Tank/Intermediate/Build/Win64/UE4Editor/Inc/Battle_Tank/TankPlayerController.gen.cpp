@@ -17,9 +17,48 @@ void EmptyLinkFunctionForGeneratedCodeTankPlayerController() {}
 	BATTLE_TANK_API UClass* Z_Construct_UClass_ATankPlayerController();
 	ENGINE_API UClass* Z_Construct_UClass_APlayerController();
 	UPackage* Z_Construct_UPackage__Script_Battle_Tank();
+	BATTLE_TANK_API UFunction* Z_Construct_UFunction_ATankPlayerController_GetControlledTank();
+	BATTLE_TANK_API UClass* Z_Construct_UClass_ATank_NoRegister();
 // End Cross Module References
 	void ATankPlayerController::StaticRegisterNativesATankPlayerController()
 	{
+		UClass* Class = ATankPlayerController::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "GetControlledTank", &ATankPlayerController::execGetControlledTank },
+		};
+		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_ATankPlayerController_GetControlledTank_Statics
+	{
+		struct TankPlayerController_eventGetControlledTank_Parms
+		{
+			ATank* ReturnValue;
+		};
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_ReturnValue;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_ATankPlayerController_GetControlledTank_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(TankPlayerController_eventGetControlledTank_Parms, ReturnValue), Z_Construct_UClass_ATank_NoRegister, METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ATankPlayerController_GetControlledTank_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ATankPlayerController_GetControlledTank_Statics::NewProp_ReturnValue,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ATankPlayerController_GetControlledTank_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Public/TankPlayerController.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ATankPlayerController_GetControlledTank_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ATankPlayerController, nullptr, "GetControlledTank", nullptr, nullptr, sizeof(TankPlayerController_eventGetControlledTank_Parms), Z_Construct_UFunction_ATankPlayerController_GetControlledTank_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ATankPlayerController_GetControlledTank_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x54080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ATankPlayerController_GetControlledTank_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ATankPlayerController_GetControlledTank_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ATankPlayerController_GetControlledTank()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ATankPlayerController_GetControlledTank_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	UClass* Z_Construct_UClass_ATankPlayerController_NoRegister()
 	{
@@ -28,6 +67,7 @@ void EmptyLinkFunctionForGeneratedCodeTankPlayerController() {}
 	struct Z_Construct_UClass_ATankPlayerController_Statics
 	{
 		static UObject* (*const DependentSingletons[])();
+		static const FClassFunctionLinkInfo FuncInfo[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
@@ -50,6 +90,9 @@ void EmptyLinkFunctionForGeneratedCodeTankPlayerController() {}
 	UObject* (*const Z_Construct_UClass_ATankPlayerController_Statics::DependentSingletons[])() = {
 		(UObject* (*)())Z_Construct_UClass_APlayerController,
 		(UObject* (*)())Z_Construct_UPackage__Script_Battle_Tank,
+	};
+	const FClassFunctionLinkInfo Z_Construct_UClass_ATankPlayerController_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_ATankPlayerController_GetControlledTank, "GetControlledTank" }, // 3790806833
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ATankPlayerController_Statics::Class_MetaDataParams[] = {
@@ -93,11 +136,11 @@ void EmptyLinkFunctionForGeneratedCodeTankPlayerController() {}
 		"Game",
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
-		nullptr,
+		FuncInfo,
 		Z_Construct_UClass_ATankPlayerController_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
-		0,
+		UE_ARRAY_COUNT(FuncInfo),
 		UE_ARRAY_COUNT(Z_Construct_UClass_ATankPlayerController_Statics::PropPointers),
 		0,
 		0x009002A4u,
@@ -112,7 +155,7 @@ void EmptyLinkFunctionForGeneratedCodeTankPlayerController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ATankPlayerController, 993902891);
+	IMPLEMENT_CLASS(ATankPlayerController, 3734717022);
 	template<> BATTLE_TANK_API UClass* StaticClass<ATankPlayerController>()
 	{
 		return ATankPlayerController::StaticClass();

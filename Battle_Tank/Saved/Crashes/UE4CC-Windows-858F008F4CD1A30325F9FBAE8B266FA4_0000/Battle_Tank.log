@@ -1,0 +1,1287 @@
+﻿Log file open, 05/06/20 11:49:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Battle_Tank
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.095144
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 1500X Quad-Core Processor          , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.05.06-10.49.30:718][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.06-10.49.30:718][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.05.06-10.49.30:719][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.05.06-10.49.30:725][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.06-10.49.30:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.06-10.49.30:726][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.06-10.49.30:727][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.06-10.49.30:727][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.06-10.49.30:727][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.06-10.49.30:730][  0]LogHAL: Display: Platform has ~ 16 GB [17109499904 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.06-10.49.30:730][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.06-10.49.30:730][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:730][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.06-10.49.30:730][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.06-10.49.30:730][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:730][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.06-10.49.30:730][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:730][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.06-10.49.30:730][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.06-10.49.30:730][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.06-10.49.30:730][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.06-10.49.30:730][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.06-10.49.30:731][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.06-10.49.30:732][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2020.05.06-10.49.30:733][  0]LogInit: Computer: DESKTOP-RCRJTMI
+[2020.05.06-10.49.30:733][  0]LogInit: User: scbis
+[2020.05.06-10.49.30:733][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.06-10.49.30:733][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.06-10.49.30:733][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.06-10.49.30:733][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.06-10.49.30:733][  0]LogMemory: Process Physical Memory: 105.92 MB used, 105.92 MB peak
+[2020.05.06-10.49.30:733][  0]LogMemory: Process Virtual Memory: 100.44 MB used, 100.44 MB peak
+[2020.05.06-10.49.30:733][  0]LogMemory: Physical Memory: 9288.71 MB used,  7028.18 MB free, 16316.89 MB total
+[2020.05.06-10.49.30:733][  0]LogMemory: Virtual Memory: 5137.56 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.05.06-10.49.30:735][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.06-10.49.30:756][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.06-10.49.30:756][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.06-10.49.30:757][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.06-10.49.30:947][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.06-10.49.30:992][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.06-10.49.30:992][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.06-10.49.31:165][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.06-10.49.31:165][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.06-10.49.31:165][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.06-10.49.31:165][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.06-10.49.31:250][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.05.06-10.49.31:250][  0]LogD3D11RHI:       6052/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.06-10.49.31:253][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.06-10.49.31:253][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.06-10.49.31:253][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.06-10.49.31:265][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.06-10.49.31:265][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.06-10.49.31:265][  0]LogWindows: EnumDisplayDevices:
+[2020.05.06-10.49.31:265][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.05.06-10.49.31:265][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.05.06-10.49.31:266][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.06-10.49.31:266][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.06-10.49.31:266][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.06-10.49.31:266][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.05.06-10.49.31:266][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.06-10.49.31:266][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.06-10.49.31:266][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.06-10.49.31:336][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.06-10.49.31:336][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.06-10.49.31:352][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.06-10.49.31:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.06-10.49.31:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.06-10.49.31:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.06-10.49.31:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.06-10.49.31:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.06-10.49.31:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.06-10.49.31:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.06-10.49.31:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.06-10.49.31:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.06-10.49.31:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.06-10.49.31:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.06-10.49.31:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.06-10.49.31:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.06-10.49.31:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.06-10.49.31:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.06-10.49.31:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.06-10.49.31:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.06-10.49.31:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.06-10.49.31:915][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.06-10.49.31:917][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.06-10.49.31:941][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Intermediate/Shaders/WorkingDirectory/8456/).
+[2020.05.06-10.49.31:941][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/scbis/AppData/Local/Temp/UnrealShaderWorkingDir/2ACEEA804D02706B44F6A89AC9DBA8C6/'.
+[2020.05.06-10.49.31:942][  0]LogXGEController: Cleaning working directory: C:/Users/scbis/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.06-10.49.31:942][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.06-10.49.31:942][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.06-10.49.31:942][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.06-10.49.32:894][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.06-10.49.32:952][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/scbis/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.06-10.49.32:952][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/scbis/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.06-10.49.32:952][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.06-10.49.32:952][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.06-10.49.32:952][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.06-10.49.32:952][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.06-10.49.32:965][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.06-10.49.32:965][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.06-10.49.32:965][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.06-10.49.32:966][  0]LogDerivedDataCache: Using Local data cache path C:/Users/scbis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.06-10.49.32:966][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.06-10.49.32:967][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.06-10.49.32:998][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.06-10.49.33:002][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.06-10.49.33:002][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.06-10.49.33:061][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2020.05.06-10.49.33:458][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.06-10.49.33:640][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.06-10.49.33:640][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.06-10.49.33:640][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.06-10.49.33:640][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.06-10.49.33:640][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.06-10.49.33:657][  0]LogNetVersion: Battle_Tank 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 704313620)
+[2020.05.06-10.49.34:914][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.070166 seconds
+[2020.05.06-10.49.34:924][  0]LogUObjectArray: 46746 objects as part of root set at end of initial load.
+[2020.05.06-10.49.34:924][  0]LogUObjectAllocator: 8135816 out of 0 bytes used by permanent object pool.
+[2020.05.06-10.49.34:924][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.06-10.49.35:412][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.06-10.49.35:416][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.06-10.49.35:479][  0]SourceControl: Source control is disabled
+[2020.05.06-10.49.35:479][  0]SourceControl: Source control is disabled
+[2020.05.06-10.49.35:480][  0]SourceControl: Source control is disabled
+[2020.05.06-10.49.35:481][  0]SourceControl: Source control is disabled
+[2020.05.06-10.49.35:482][  0]SourceControl: Source control is disabled
+[2020.05.06-10.49.35:578][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.06-10.49.35:592][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.06-10.49.35:592][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.06-10.49.35:704][  0]LogOcInput: OculusInput pre-init called
+[2020.05.06-10.49.35:712][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.06-10.49.35:712][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.06-10.49.35:806][  0]LogEngine: Initializing Engine...
+[2020.05.06-10.49.35:807][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.06-10.49.35:808][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.06-10.49.36:229][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.06-10.49.36:237][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.06-10.49.36:255][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.06-10.49.36:255][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.06-10.49.36:255][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.06-10.49.36:255][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.06-10.49.36:255][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.06-10.49.36:255][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.06-10.49.36:255][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.06-10.49.36:255][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.06-10.49.36:256][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.06-10.49.36:256][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.06-10.49.36:321][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-10.49.36:321][  0]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2020.05.06-10.49.36:321][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-10.49.36:321][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-10.49.36:321][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-10.49.36:321][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-10.49.36:321][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.06-10.49.36:321][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-10.49.36:321][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-10.49.36:343][  0]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2020.05.06-10.49.36:349][  0]LogInit: FAudioDevice initialized.
+[2020.05.06-10.49.36:350][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.06-10.49.36:443][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/scbis/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.06-10.49.36:449][  0]LogInit: Texture streaming: Enabled
+[2020.05.06-10.49.36:467][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.06-10.49.36:467][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={1B1C9F53-4D4D-EFCE-CF93-A2835D897A0F}
+[2020.05.06-10.49.36:467][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.06-10.49.36:472][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.06-10.49.36:570][  0]LogInit: Transaction tracking system initialized
+[2020.05.06-10.49.36:581][  0]BlueprintLog: New page: Editor Load
+[2020.05.06-10.49.36:616][  0]LocalizationService: Localization service is disabled
+[2020.05.06-10.49.36:980][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/' took 0.01s
+[2020.05.06-10.49.36:980][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.06-10.49.36:981][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.06-10.49.37:799][  0]SourceControl: Source control is disabled
+[2020.05.06-10.49.37:939][  0]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.06-10.49.42:927][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.05.06-10.49.42:932][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.06-10.49.42:934][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.06-10.49.44:571][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.05.06-10.49.44:572][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.06-10.49.44:574][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.06-10.49.44:592][  0]Cmd: MAP LOAD FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Levels/Battleground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.06-10.49.44:592][  0]LightingResults: New page: Lighting Build
+[2020.05.06-10.49.44:593][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-10.49.44:593][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-10.49.44:593][  0]MapCheck: New page: Map Check
+[2020.05.06-10.49.44:593][  0]LightingResults: New page: Lighting Build
+[2020.05.06-10.49.44:639][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.05.06-10.49.45:065][  0]LogAIModule: Creating AISystem for world Battleground
+[2020.05.06-10.49.45:323][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.06-10.49.45:713][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.05.06-10.49.45:713][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.06-10.49.45:714][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2020.05.06-10.49.45:714][  0]LogFileHelpers: Loading map 'Battleground' took 1.123
+[2020.05.06-10.49.47:032][  0]LogCollectionManager: Loaded 0 collections in 0.001036 seconds
+[2020.05.06-10.49.47:050][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Collections/' took 0.00s
+[2020.05.06-10.49.47:050][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Developers/scbis/Collections/' took 0.00s
+[2020.05.06-10.49.47:050][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Collections/' took 0.00s
+[2020.05.06-10.49.47:050][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 3027 classes and 723 folders.
+[2020.05.06-10.49.47:053][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.06-10.49.47:111][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.06-10.49.47:136][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.49.47:144][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.49.47:152][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.49.47:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.49.47:200][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.06-10.49.47:203][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.06-10.49.47:204][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.05.06-10.49.47:320][  0]LogRenderer: Reallocating scene render targets to support 1524x596 Format 10 NumSamples 1 (Frame:1).
+[2020.05.06-10.49.47:423][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.05.06-10.49.47:423][  0]LogLoad: (Engine Initialization) Total time: 18.01 seconds
+[2020.05.06-10.49.47:423][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.06-10.49.47:493][  0]LogAssetRegistry: Asset discovery search completed in 14.4332 seconds
+[2020.05.06-10.49.47:497][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.05.06-10.49.47:504][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.06-10.49.48:471][104]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.06-10.49.54:575][436]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.06-10.50.00:736][ 23]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TankPlayerController_BP.TankPlayerController_BP
+[2020.05.06-10.50.00:978][ 23]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2020.05.06-10.50.02:042][ 23]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.06-10.50.02:092][ 24]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.06-10.50.03:707][182]LogSlate: Window 'TankPlayerController_BP' being destroyed
+[2020.05.06-10.50.05:870][421]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Player_UI_BP.Player_UI_BP
+[2020.05.06-10.50.11:663][988]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Player_UI_BPB0FBB59A42B59E88D64E4B93DFB0D74C.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Blueprints/Player_UI_BP.uasset'
+[2020.05.06-10.50.11:682][988]AssetCheck: New page: Asset Save: Player_UI_BP
+[2020.05.06-10.50.11:682][988]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player_UI_BP.Player_UI_BP
+[2020.05.06-10.51.18:838][355]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/TankPlayerController_BPBC31682B4FF01BFF8C2020A027F1E562.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Blueprints/TankPlayerController_BP.uasset'
+[2020.05.06-10.51.18:854][355]AssetCheck: New page: Asset Save: TankPlayerController_BP
+[2020.05.06-10.51.18:854][355]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TankPlayerController_BP.TankPlayerController_BP
+[2020.05.06-10.51.24:152][922]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tank/Tank_BP.Tank_BP
+[2020.05.06-10.51.41:118][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.05.06-10.51.41:181][533]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP768B725E4843DF6C66B507BCA65F8EBF.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.05.06-10.51.41:200][533]AssetCheck: New page: Asset Save: Tank_BP
+[2020.05.06-10.51.41:200][533]LogContentValidation: Display: Validating Blueprint /Game/Tank/Tank_BP.Tank_BP
+[2020.05.06-10.51.42:905][707]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.06-10.51.42:938][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.51.42:938][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.06-10.51.42:938][707]PIE: New page: PIE session: Battleground (May 6, 2020, 12:51:42 PM)
+[2020.05.06-10.51.42:940][707]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.06-10.51.42:941][707]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.06-10.51.42:941][707]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Battleground
+[2020.05.06-10.51.43:831][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.890393s)
+[2020.05.06-10.51.43:833][707]LogAIModule: Creating AISystem for world Battleground
+[2020.05.06-10.51.43:833][707]LogPlayLevel: PIE: World Init took: (0.001756s)
+[2020.05.06-10.51.43:833][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Battleground.Battleground to /Game/Levels/UEDPIE_0_Battleground.Battleground (0.892505s)
+[2020.05.06-10.51.43:965][707]LogUObjectHash: Compacting FUObjectHashTables data took   9.24ms
+[2020.05.06-10.51.43:970][707]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.06-10.51.43:970][707]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.06-10.51.43:970][707]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.06-10.51.43:971][707]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.06-10.51.43:971][707]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.06-10.51.43:971][707]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.06-10.51.43:971][707]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.06-10.51.43:971][707]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.06-10.51.43:971][707]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.06-10.51.43:971][707]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.06-10.51.44:021][707]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-10.51.44:021][707]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2020.05.06-10.51.44:021][707]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-10.51.44:021][707]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-10.51.44:021][707]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-10.51.44:021][707]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-10.51.44:023][707]LogAudioMixer: Display: Channel Order:
+[2020.05.06-10.51.44:023][707]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-10.51.44:023][707]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-10.51.44:034][707]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2020.05.06-10.51.44:037][707]LogInit: FAudioDevice initialized.
+[2020.05.06-10.51.44:047][707]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.05.06-10.51.44:053][707]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.05.06-11.51.44
+[2020.05.06-10.51.44:053][707]LogWorld: Bringing up level for play took: 0.005176
+[2020.05.06-10.51.44:054][707]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.05.06-10.51.44:058][707]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.05.06-10.51.44:061][707]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Battleground 0.995
+[2020.05.06-10.51.44:061][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.51.49:563][318]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.51.49:565][318]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.06-10.51.49:585][318]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.06-10.51.49:585][318]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.51.49:586][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.51.49:586][318]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battleground
+[2020.05.06-10.51.49:586][318]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.51.49:586][318]LogWorld: UWorld::CleanupWorld for Battleground, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-10.51.49:587][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-10.51.49:599][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.06-10.51.49:599][318]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.51.49:607][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-10.51.49:666][318]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.51.49:669][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.51.49:732][318]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2020.05.06-10.51.49:764][319]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.05.06-10.52.07:039][134]BlueprintLog: New page: Compile Tank_BP
+[2020.05.06-10.52.07:578][134]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.05.06-10.52.10:261][430]Candidate modules for hot reload:
+[2020.05.06-10.52.10:261][430]  Battle_Tank
+[2020.05.06-10.52.10:262][430]Launching UnrealBuildTool... [F:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Battle_Tank,618 Win64 Development -TargetType=Editor -Project="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject" "C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject"  -IgnoreJunk]
+[2020.05.06-10.52.10:264][430]Warning: Starting HotReload took  0.0s.
+[2020.05.06-10.52.27:488][416]CompilerResultsLog: New page: Compilation - May 6, 2020, 12:52:27 PM
+[2020.05.06-10.52.27:488][416]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
+[2020.05.06-10.52.27:488][416]CompilerResultsLog: Parsing headers for Battle_TankEditor
+[2020.05.06-10.52.27:488][416]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\Battle_TankEditor\Development\Battle_TankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-10.52.27:488][416]CompilerResultsLog: Reflection code generated for Battle_TankEditor in 9.3165093 seconds
+[2020.05.06-10.52.27:488][416]CompilerResultsLog: Building Battle_TankEditor...
+[2020.05.06-10.52.27:488][416]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.06-10.52.27:489][416]CompilerResultsLog: [Upgrade]
+[2020.05.06-10.52.27:489][416]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.06-10.52.27:489][416]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.06-10.52.27:489][416]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.06-10.52.27:489][416]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.06-10.52.27:489][416]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Battle_TankEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.06-10.52.27:489][416]CompilerResultsLog: [Upgrade]
+[2020.05.06-10.52.27:489][416]CompilerResultsLog: Building 10 actions with 8 processes...
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   [1/10] Tank.gen.cpp
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   [2/10] TankPlayerController.cpp
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   [3/10] Projectile.cpp
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   [4/10] TankAimingComponent.cpp
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   [5/10] TankTrack.cpp
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   [6/10] Tank.cpp
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\Tank.cpp(41): warning C4458: declaration of 'InputComponent' hides class member
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   F:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(560): note: see declaration of 'AActor::InputComponent'
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   [7/10] TankAIController.cpp
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   [8/10] UE4Editor-Battle_Tank-0618.lib
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:      Creating library C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0618.lib and object C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0618.exp
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   [9/10] UE4Editor-Battle_Tank-0618.dll
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:      Creating library C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0618.suppressed.lib and object C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0618.suppressed.exp
+[2020.05.06-10.52.27:489][416]CompilerResultsLog:   [10/10] Battle_TankEditor.target
+[2020.05.06-10.52.27:489][416]CompilerResultsLog: Total time in Parallel executor: 6.29 seconds
+[2020.05.06-10.52.27:489][416]CompilerResultsLog: Total execution time: 17.10 seconds
+[2020.05.06-10.52.27:489][416]LogMainFrame: MainFrame: Module compiling took 17.233 seconds
+[2020.05.06-10.52.27:556][416]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.05.06-10.52.27:582][416]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 3027 classes and 723 folders.
+[2020.05.06-10.52.27:582][416]Display: HotReload took 17.3s.
+[2020.05.06-10.52.44:577][401]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.06-10.52.44:620][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.52.44:620][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.06-10.52.44:620][401]PIE: New page: PIE session: Battleground (May 6, 2020, 12:52:44 PM)
+[2020.05.06-10.52.44:621][401]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Battleground
+[2020.05.06-10.52.45:504][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.883370s)
+[2020.05.06-10.52.45:505][401]LogAIModule: Creating AISystem for world Battleground
+[2020.05.06-10.52.45:505][401]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2020.05.06-10.52.45:505][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Battleground.Battleground to /Game/Levels/UEDPIE_0_Battleground.Battleground (0.884956s)
+[2020.05.06-10.52.45:611][401]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2020.05.06-10.52.45:615][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.06-10.52.45:615][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.06-10.52.45:615][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.06-10.52.45:615][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.06-10.52.45:615][401]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.06-10.52.45:615][401]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.06-10.52.45:615][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.06-10.52.45:615][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.06-10.52.45:616][401]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.06-10.52.45:616][401]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.06-10.52.45:670][401]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-10.52.45:670][401]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2020.05.06-10.52.45:670][401]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-10.52.45:670][401]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-10.52.45:670][401]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-10.52.45:670][401]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-10.52.45:670][401]LogAudioMixer: Display: Channel Order:
+[2020.05.06-10.52.45:670][401]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-10.52.45:671][401]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-10.52.45:682][401]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2020.05.06-10.52.45:684][401]LogInit: FAudioDevice initialized.
+[2020.05.06-10.52.45:693][401]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.05.06-10.52.45:696][401]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.05.06-11.52.45
+[2020.05.06-10.52.45:696][401]LogWorld: Bringing up level for play took: 0.002167
+[2020.05.06-10.52.45:696][401]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.05.06-10.52.45:700][401]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Battleground 0.635
+[2020.05.06-10.52.45:700][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.52.55:774][601]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.52.55:775][601]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.06-10.52.55:795][601]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.06-10.52.55:795][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.52.55:796][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.52.55:796][601]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battleground
+[2020.05.06-10.52.55:796][601]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.52.55:796][601]LogWorld: UWorld::CleanupWorld for Battleground, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-10.52.55:797][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-10.52.55:807][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.06-10.52.55:808][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.52.55:815][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-10.52.55:878][601]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.52.55:882][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.52.55:910][601]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.05.06-10.52.55:939][602]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.05.06-10.53.09:443][798]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.06-10.53.13:295][231]BlueprintLog: New page: Compile Player_UI_BP
+[2020.05.06-10.53.13:371][231]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.05.06-10.53.16:201][549]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.06-10.53.16:236][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.53.16:237][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.06-10.53.16:237][549]PIE: New page: PIE session: Battleground (May 6, 2020, 12:53:16 PM)
+[2020.05.06-10.53.16:237][549]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Battleground
+[2020.05.06-10.53.17:134][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.897395s)
+[2020.05.06-10.53.17:135][549]LogAIModule: Creating AISystem for world Battleground
+[2020.05.06-10.53.17:136][549]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2020.05.06-10.53.17:136][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Battleground.Battleground to /Game/Levels/UEDPIE_0_Battleground.Battleground (0.899044s)
+[2020.05.06-10.53.17:195][549]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2020.05.06-10.53.17:197][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.06-10.53.17:197][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.06-10.53.17:197][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.06-10.53.17:197][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.06-10.53.17:197][549]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.06-10.53.17:197][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.06-10.53.17:197][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.06-10.53.17:197][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.06-10.53.17:198][549]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.06-10.53.17:198][549]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.06-10.53.17:249][549]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-10.53.17:249][549]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2020.05.06-10.53.17:249][549]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-10.53.17:249][549]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-10.53.17:249][549]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-10.53.17:249][549]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-10.53.17:249][549]LogAudioMixer: Display: Channel Order:
+[2020.05.06-10.53.17:249][549]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-10.53.17:249][549]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-10.53.17:261][549]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2020.05.06-10.53.17:263][549]LogInit: FAudioDevice initialized.
+[2020.05.06-10.53.17:274][549]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.05.06-10.53.17:276][549]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.05.06-11.53.17
+[2020.05.06-10.53.17:278][549]LogWorld: Bringing up level for play took: 0.002225
+[2020.05.06-10.53.17:278][549]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.05.06-10.53.17:280][549]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Battleground 0.216
+[2020.05.06-10.53.17:282][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.53.19:571][819]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.53.19:585][819]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.06-10.53.19:605][819]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.06-10.53.19:605][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.53.19:605][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.53.19:605][819]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battleground
+[2020.05.06-10.53.19:606][819]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.53.19:606][819]LogWorld: UWorld::CleanupWorld for Battleground, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-10.53.19:606][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-10.53.19:616][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.06-10.53.19:616][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.53.19:623][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-10.53.19:687][819]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.53.19:690][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.53.19:700][819]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.05.06-10.53.19:727][820]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.05.06-10.53.22:117][ 79]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Player_UI_BPE6FF60814C6A922E7B1715A84C6881BE.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Blueprints/Player_UI_BP.uasset'
+[2020.05.06-10.53.22:133][ 79]AssetCheck: New page: Asset Save: Player_UI_BP
+[2020.05.06-10.53.22:133][ 79]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player_UI_BP.Player_UI_BP
+[2020.05.06-10.53.26:986][341]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.06-10.53.53:800][334]BlueprintLog: New page: Compile Player_UI_BP
+[2020.05.06-10.53.53:878][334]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.05.06-10.53.56:174][578]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.06-10.53.56:206][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.53.56:206][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.06-10.53.56:207][578]PIE: New page: PIE session: Battleground (May 6, 2020, 12:53:56 PM)
+[2020.05.06-10.53.56:207][578]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Battleground
+[2020.05.06-10.53.57:084][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.877828s)
+[2020.05.06-10.53.57:085][578]LogAIModule: Creating AISystem for world Battleground
+[2020.05.06-10.53.57:086][578]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2020.05.06-10.53.57:086][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Battleground.Battleground to /Game/Levels/UEDPIE_0_Battleground.Battleground (0.879216s)
+[2020.05.06-10.53.57:139][578]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2020.05.06-10.53.57:141][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.06-10.53.57:141][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.06-10.53.57:141][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.06-10.53.57:141][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.06-10.53.57:141][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.06-10.53.57:141][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.06-10.53.57:141][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.06-10.53.57:141][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.06-10.53.57:141][578]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.06-10.53.57:141][578]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.06-10.53.57:195][578]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-10.53.57:195][578]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2020.05.06-10.53.57:195][578]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-10.53.57:195][578]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-10.53.57:195][578]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-10.53.57:195][578]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-10.53.57:195][578]LogAudioMixer: Display: Channel Order:
+[2020.05.06-10.53.57:195][578]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-10.53.57:195][578]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-10.53.57:209][578]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2020.05.06-10.53.57:210][578]LogInit: FAudioDevice initialized.
+[2020.05.06-10.53.57:223][578]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2020.05.06-10.53.57:225][578]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battleground.Battleground up for play (max tick rate 0) at 2020.05.06-11.53.57
+[2020.05.06-10.53.57:226][578]LogWorld: Bringing up level for play took: 0.002251
+[2020.05.06-10.53.57:226][578]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.05.06-10.53.57:229][578]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Battleground 0.165
+[2020.05.06-10.53.57:230][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.54.00:000][906]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.54.00:005][906]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.06-10.54.00:025][906]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.06-10.54.00:025][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.54.00:026][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.54.00:026][906]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battleground
+[2020.05.06-10.54.00:026][906]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.54.00:026][906]LogWorld: UWorld::CleanupWorld for Battleground, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-10.54.00:027][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-10.54.00:038][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.06-10.54.00:038][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2020.05.06-10.54.00:047][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-10.54.00:108][906]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.06-10.54.00:111][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-10.54.00:120][906]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.05.06-10.54.00:144][907]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.05.06-10.54.05:276][482]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Player_UI_BP75B0EDFD45595C77C36552BADE1830D7.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Blueprints/Player_UI_BP.uasset'
+[2020.05.06-10.54.05:296][482]AssetCheck: New page: Asset Save: Player_UI_BP
+[2020.05.06-10.54.05:296][482]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Player_UI_BP.Player_UI_BP
+[2020.05.06-10.59.19:903][815]BlueprintLog: New page: Compile Tank_BP
+[2020.05.06-10.59.20:363][815]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2020.05.06-10.59.23:977][230]Candidate modules for hot reload:
+[2020.05.06-10.59.23:977][230]  Battle_Tank
+[2020.05.06-10.59.23:977][230]Launching UnrealBuildTool... [F:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Battle_Tank,708 Win64 Development -TargetType=Editor -Project="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject" "C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject"  -IgnoreJunk]
+[2020.05.06-10.59.23:980][230]Warning: Starting HotReload took  0.1s.
+[2020.05.06-10.59.40:804][170]CompilerResultsLog: New page: Compilation - May 6, 2020, 12:59:40 PM
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: Parsing headers for Battle_TankEditor
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\Battle_TankEditor\Development\Battle_TankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: Reflection code generated for Battle_TankEditor in 9.1352835 seconds
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: Building Battle_TankEditor...
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: [Upgrade]
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Battle_TankEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: [Upgrade]
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: Building 11 actions with 8 processes...
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   [1/11] TankTrack.cpp
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   [2/11] Battle_Tank.init.gen.cpp
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   [3/11] Projectile.cpp
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   [4/11] TankPlayerController.cpp
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   [5/11] Tank.gen.cpp
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   [6/11] Tank.cpp
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   [7/11] TankAIController.cpp
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   [8/11] TankAimingComponent.cpp
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   [9/11] UE4Editor-Battle_Tank-0708.lib
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:      Creating library C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0708.lib and object C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0708.exp
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   [10/11] UE4Editor-Battle_Tank-0708.dll
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:      Creating library C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0708.suppressed.lib and object C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-0708.suppressed.exp
+[2020.05.06-10.59.40:805][170]CompilerResultsLog:   [11/11] Battle_TankEditor.target
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: Total time in Parallel executor: 5.91 seconds
+[2020.05.06-10.59.40:805][170]CompilerResultsLog: Total execution time: 16.71 seconds
+[2020.05.06-10.59.40:805][170]LogMainFrame: MainFrame: Module compiling took 16.834 seconds
+[2020.05.06-10.59.40:875][170]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.05.06-10.59.40:901][170]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 3027 classes and 723 folders.
+[2020.05.06-10.59.40:901][170]Display: HotReload took 17.0s.
+[2020.05.06-10.59.53:917][392]BlueprintLog: New page: Compile Tank_BP
+[2020.05.06-10.59.54:521][392]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2020.05.06-11.00.20:163][596]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2020.05.06-11.00.21:412][596]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground_Auto1AEB1214B440448C5CC8206B5274C2A80.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Levels/Battleground_Auto1.umap'
+[2020.05.06-11.00.21:425][596]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Battleground' took 1.354
+[2020.05.06-11.00.21:425][596]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.354
+[2020.05.06-11.00.21:426][596]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/Tank_BP] ([1] browsable assets)...
+[2020.05.06-11.00.21:447][596]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tank/Tank_BP.Tank_BP]
+[2020.05.06-11.00.21:447][596]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/Tank_BP]
+[2020.05.06-11.00.21:504][596]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP_Auto173AAEC4042B88AD87912B0A692C914DF.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto1.uasset'
+[2020.05.06-11.00.21:506][596]LogFileHelpers: Auto-saving content packages took 0.081
+[2020.05.06-11.03.40:152][808]LogRenderer: Reallocating scene render targets to support 1524x708 Format 10 NumSamples 1 (Frame:1).
+[2020.05.06-11.03.44:636][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2020.05.06-11.03.44:669][299]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BPDB78EB8D4CD528C181E362830EDBBB24.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2020.05.06-11.03.44:691][299]AssetCheck: New page: Asset Save: Tank_BP
+[2020.05.06-11.03.44:691][299]LogContentValidation: Display: Validating Blueprint /Game/Tank/Tank_BP.Tank_BP
+[2020.05.06-11.03.47:422][571]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-11.03.47:422][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-11.03.48:635][662]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tank/Tank_BP.Tank_BP
+[2020.05.06-11.08.09:724][126]BlueprintLog: New page: Compile Tank_BP
+[2020.05.06-11.08.10:276][126]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2020.05.06-11.08.13:366][468]Candidate modules for hot reload:
+[2020.05.06-11.08.13:366][468]  Battle_Tank
+[2020.05.06-11.08.13:366][468]Launching UnrealBuildTool... [F:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Battle_Tank,7268 Win64 Development -TargetType=Editor -Project="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject" "C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject"  -IgnoreJunk]
+[2020.05.06-11.08.13:369][468]Warning: Starting HotReload took  0.0s.
+[2020.05.06-11.08.23:811][286]CompilerResultsLog: New page: Compilation - May 6, 2020, 1:08:23 PM
+[2020.05.06-11.08.23:811][286]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
+[2020.05.06-11.08.23:811][286]CompilerResultsLog: Parsing headers for Battle_TankEditor
+[2020.05.06-11.08.23:811][286]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\Battle_TankEditor\Development\Battle_TankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-11.08.23:811][286]CompilerResultsLog: Error: C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Source/Battle_Tank/Public/TankAimingComponent.h(34)  : Error: Bad function definition
+[2020.05.06-11.08.23:811][286]LogMainFrame: MainFrame: Module compiling took 10.450 seconds
+[2020.05.06-11.08.23:811][286]Warning: HotReload failed, recompile failed
+[2020.05.06-11.10.21:954][513]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2020.05.06-11.10.23:093][513]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Battleground_Auto2ABD1C09E45FD983F063268A61451C4C3.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Levels/Battleground_Auto2.umap'
+[2020.05.06-11.10.23:132][513]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Battleground' took 1.259
+[2020.05.06-11.10.23:133][513]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.259
+[2020.05.06-11.10.23:133][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/Tank_BP] ([1] browsable assets)...
+[2020.05.06-11.10.23:187][513]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tank/Tank_BP.Tank_BP]
+[2020.05.06-11.10.23:187][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/Tank_BP]
+[2020.05.06-11.10.23:243][513]LogSavePackage: Moving 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Tank_BP_Auto2EA9C2802424BD770811B3B9C78B13635.tmp' to 'C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto2.uasset'
+[2020.05.06-11.10.23:246][513]LogFileHelpers: Auto-saving content packages took 0.114
+[2020.05.06-11.11.03:305][549]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-11.11.03:306][549]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-11.11.06:607][559]Candidate modules for hot reload:
+[2020.05.06-11.11.06:607][559]  Battle_Tank
+[2020.05.06-11.11.06:608][559]Launching UnrealBuildTool... [F:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Battle_Tank,3829 Win64 Development -TargetType=Editor -Project="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject" "C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject"  -IgnoreJunk]
+[2020.05.06-11.11.06:610][559]Warning: Starting HotReload took  0.0s.
+[2020.05.06-11.11.16:724][721]CompilerResultsLog: New page: Compilation - May 6, 2020, 1:11:16 PM
+[2020.05.06-11.11.16:724][721]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
+[2020.05.06-11.11.16:724][721]CompilerResultsLog: Parsing headers for Battle_TankEditor
+[2020.05.06-11.11.16:724][721]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\Battle_TankEditor\Development\Battle_TankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-11.11.16:724][721]CompilerResultsLog: Error: C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Source/Battle_Tank/Public/TankAimingComponent.h(34)  : Error: Bad function definition
+[2020.05.06-11.11.16:725][721]LogMainFrame: MainFrame: Module compiling took 10.121 seconds
+[2020.05.06-11.11.16:725][721]Warning: HotReload failed, recompile failed
+[2020.05.06-11.12.22:752][931]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-11.12.22:753][931]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-11.12.24:330][ 32]Candidate modules for hot reload:
+[2020.05.06-11.12.24:330][ 32]  Battle_Tank
+[2020.05.06-11.12.24:330][ 32]Launching UnrealBuildTool... [F:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Battle_Tank,716 Win64 Development -TargetType=Editor -Project="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject" "C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject"  -IgnoreJunk]
+[2020.05.06-11.12.24:333][ 32]Warning: Starting HotReload took  0.0s.
+[2020.05.06-11.12.37:894][587]CompilerResultsLog: New page: Compilation - May 6, 2020, 1:12:37 PM
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: Parsing headers for Battle_TankEditor
+[2020.05.06-11.12.37:895][587]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\Battle_TankEditor\Development\Battle_TankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: Reflection code generated for Battle_TankEditor in 8.6152522 seconds
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: Building Battle_TankEditor...
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: [Upgrade]
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Battle_TankEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: [Upgrade]
+[2020.05.06-11.12.37:895][587]CompilerResultsLog: Building 12 actions with 8 processes...
+[2020.05.06-11.12.37:895][587]CompilerResultsLog:   [1/12] TankAimingComponent.gen.cpp
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank/Public/TankAimingComponent.h(25) : error C2079: 'UTankAimingComponent' uses undefined class 'BATTLETANK_API'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank/Public/TankAimingComponent.h(25) : error C2143: syntax error: missing ';' before ':'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank/Public/TankAimingComponent.h(25) : error C2059: syntax error: ':'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank/Public/TankAimingComponent.h(25) : error C2059: syntax error: 'public'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank/Public/TankAimingComponent.h(26) : error C2143: syntax error: missing ';' before '{'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank/Public/TankAimingComponent.h(26) : error C2447: '{': missing function header (old-style formal list?)
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(81) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:   c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\intermediate\build\win64\ue4editor\inc\battle_tank\TankAimingComponent.generated.h(116): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(83) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:   c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\intermediate\build\win64\ue4editor\inc\battle_tank\TankAimingComponent.generated.h(116): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(83) : error C2672: 'StaticClass': no matching overloaded function found
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(83) : error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:   F:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(85) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:   c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\intermediate\build\win64\ue4editor\inc\battle_tank\TankAimingComponent.generated.h(116): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(85) : error C2065: 'execInitialise': undeclared identifier
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(144) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:   c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\intermediate\build\win64\ue4editor\inc\battle_tank\TankAimingComponent.generated.h(116): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(144) : error C2672: 'StaticClass': no matching overloaded function found
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(144) : error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:   F:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(185) : error C2132: syntax error: unexpected identifier
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(185): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(192) : error C2923: 'TCppClassTypeTraits': 'UTankAimingComponent' is not a valid template type argument for parameter 'CPPCLASS'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank/Public/TankAimingComponent.h(25): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(192) : error C2955: 'TCppClassTypeTraits': use of class template requires template argument list
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:   F:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2323): note: see declaration of 'TCppClassTypeTraits'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(193): warning C4305: 'initializing': truncation from 'TCppClassTypeTraits<CPPCLASS>::<unnamed-enum-IsAbstract>' to 'bool'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(195) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:896][587]CompilerResultsLog:   c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\intermediate\build\win64\ue4editor\inc\battle_tank\TankAimingComponent.generated.h(116): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(195) : error C2078: too many initializers
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(208) : error C2440: 'initializing': cannot convert from 'overloaded-function' to 'UClass *(__cdecl *)(void)'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(208): note: None of the functions with this name in scope match the target type
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(218) : error C2923: 'TClassCompiledInDefer': 'UTankAimingComponent' is not a valid template type argument for parameter 'TClass'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank/Public/TankAimingComponent.h(25): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(218) : error C2514: 'TClassCompiledInDefer': class has no constructors
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:   F:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(326): note: see declaration of 'TClassCompiledInDefer'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(218) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:   c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\intermediate\build\win64\ue4editor\inc\battle_tank\TankAimingComponent.generated.h(116): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(218) : error C3861: 'StaticPackage': identifier not found
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(218) : error C2065: 'StaticClassFlags': undeclared identifier
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(218) : error C2061: syntax error: identifier 'UTankAimingComponent'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(220) : error C2912: explicit specialization 'UClass *StaticClass<UTankAimingComponent>(void)' is not a specialization of a function template
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(221) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:   c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\intermediate\build\win64\ue4editor\inc\battle_tank\TankAimingComponent.generated.h(116): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(221) : error C2672: 'StaticClass': no matching overloaded function found
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(221) : error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:   F:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(223) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:   c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\intermediate\build\win64\ue4editor\inc\battle_tank\TankAimingComponent.generated.h(116): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(223) : error C2664: 'FCompiledInDefer::FCompiledInDefer(FCompiledInDefer &&)': cannot convert argument 2 from 'UClass *(__cdecl *)(void)' to 'UClass *(__cdecl *)(void)'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(223): note: None of the functions with this name in scope match the target type
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(224) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:   c:\users\scbis\desktop\programming\games projects\battle_tank\battle_tanks\battle_tank\intermediate\build\win64\ue4editor\inc\battle_tank\TankAimingComponent.generated.h(116): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(224) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(224) : error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankAimingComponent.gen.cpp(224) : error C4508: '{ctor}': function should return a value; 'void' return type assumed
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:   [2/12] TankTrack.cpp
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2079: 'UTankAimingComponent' uses undefined class 'BATTLETANK_API'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2143: syntax error: missing ';' before ':'
+[2020.05.06-11.12.37:897][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2059: syntax error: ':'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2059: syntax error: 'public'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(26) : error C2143: syntax error: missing ';' before '{'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(26) : error C2447: '{': missing function header (old-style formal list?)
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:   [3/12] TankPlayerController.cpp
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:   [4/12] Battle_Tank.init.gen.cpp
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:   [5/12] Tank.cpp
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2079: 'UTankAimingComponent' uses undefined class 'BATTLETANK_API'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2143: syntax error: missing ';' before ':'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2059: syntax error: ':'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2059: syntax error: 'public'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(26) : error C2143: syntax error: missing ';' before '{'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(26) : error C2447: '{': missing function header (old-style formal list?)
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\Tank.cpp(22) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(8): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\Tank.cpp(29) : error C2065: 'Barrel': undeclared identifier
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\Tank.cpp(34) : error C2065: 'Barrel': undeclared identifier
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\Tank.cpp(35) : error C2065: 'Barrel': undeclared identifier
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:   [6/12] Tank.gen.cpp
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:   [7/12] Projectile.cpp
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2079: 'UTankAimingComponent' uses undefined class 'BATTLETANK_API'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2143: syntax error: missing ';' before ':'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2059: syntax error: ':'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2059: syntax error: 'public'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(26) : error C2143: syntax error: missing ';' before '{'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(26) : error C2447: '{': missing function header (old-style formal list?)
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:   [8/12] TankAIController.cpp
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:   [9/12] TankAimingComponent.cpp
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2079: 'UTankAimingComponent' uses undefined class 'BATTLETANK_API'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2143: syntax error: missing ';' before ':'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2059: syntax error: ':'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(25) : error C2059: syntax error: 'public'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(26) : error C2143: syntax error: missing ';' before '{'
+[2020.05.06-11.12.37:898][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankAimingComponent.h(26) : error C2447: '{': missing function header (old-style formal list?)
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(24) : error C2143: syntax error: missing ';' before '*'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(24) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(24) : error C2238: unexpected token(s) preceding ';'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(15) : error C2039: 'TankAimingComponent': is not a member of 'ATank'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(13): note: see declaration of 'ATank'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(15) : error C2618: illegal member designator in offsetof
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(15): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(11) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(8): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(12) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(15) : error C2065: 'PrimaryComponentTick': undeclared identifier
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(18) : error C4508: '{ctor}': function should return a value; 'void' return type assumed
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(20) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(8): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(22) : error C2065: 'Barrel': undeclared identifier
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(25) : error C2065: 'Barrel': undeclared identifier
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(28) : error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(44) : error C3861: 'MoveBarrelTowards': identifier not found
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(50) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(8): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(52) : error C2065: 'Barrel': undeclared identifier
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(53) : error C2065: 'Turret': undeclared identifier
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(57) : error C2027: use of undefined type 'UTankAimingComponent'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\Tank.h(8): note: see declaration of 'UTankAimingComponent'
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(60) : error C2065: 'Barrel': undeclared identifier
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(62) : error C3536: 'BarrelRotator': cannot be used before it is initialized
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(62) : error C2678: binary '-': no operator found which takes a left-hand operand of type 'FRotator' (or there is no acceptable conversion)
+[2020.05.06-11.12.37:899][587]CompilerResultsLog:   f:\ue_4.24\engine\source\runtime\core\public\Math/Rotator.h(490): note: could be 'FRotator FRotator::operator -(const FRotator &) const'
+[2020.05.06-11.12.37:900][587]CompilerResultsLog:   F:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h(211): note: or       'FFrameTime operator -(FFrameTime,FFrameTime)'
+[2020.05.06-11.12.37:900][587]CompilerResultsLog:   C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(62): note: while trying to match the argument list '(FRotator, int)'
+[2020.05.06-11.12.37:900][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(65) : error C2065: 'Barrel': undeclared identifier
+[2020.05.06-11.12.37:900][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(65) : error C3536: 'DeltaRotator': cannot be used before it is initialized
+[2020.05.06-11.12.37:900][587]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\TankAimingComponent.cpp(66) : error C2065: 'Turret': undeclared identifier
+[2020.05.06-11.12.37:900][587]LogMainFrame: MainFrame: Module compiling took 13.574 seconds
+[2020.05.06-11.12.37:900][587]Warning: HotReload failed, recompile failed
+[2020.05.06-11.12.50:395][923]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-11.12.50:399][923]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-11.13.06:171][281]Candidate modules for hot reload:
+[2020.05.06-11.13.06:171][281]  Battle_Tank
+[2020.05.06-11.13.06:172][281]Launching UnrealBuildTool... [F:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Battle_Tank,6362 Win64 Development -TargetType=Editor -Project="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject" "C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject"  -IgnoreJunk]
+[2020.05.06-11.13.06:174][281]Warning: Starting HotReload took  0.0s.
+[2020.05.06-11.13.15:451][566]CompilerResultsLog: New page: Compilation - May 6, 2020, 1:13:15 PM
+[2020.05.06-11.13.15:451][566]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
+[2020.05.06-11.13.15:451][566]CompilerResultsLog: Parsing headers for Battle_TankEditor
+[2020.05.06-11.13.15:451][566]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\Battle_TankEditor\Development\Battle_TankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-11.13.15:451][566]CompilerResultsLog: Error: C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Source/Battle_Tank/Public/TankAimingComponent.h(34)  : Error: Bad function definition
+[2020.05.06-11.13.15:452][566]LogMainFrame: MainFrame: Module compiling took 9.284 seconds
+[2020.05.06-11.13.15:452][566]Warning: HotReload failed, recompile failed
+[2020.05.06-11.13.48:557][267]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-11.13.48:558][267]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-11.13.50:163][371]Candidate modules for hot reload:
+[2020.05.06-11.13.50:163][371]  Battle_Tank
+[2020.05.06-11.13.50:163][371]Launching UnrealBuildTool... [F:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Battle_Tank,3973 Win64 Development -TargetType=Editor -Project="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject" "C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject"  -IgnoreJunk]
+[2020.05.06-11.13.50:166][371]Warning: Starting HotReload took  0.0s.
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: New page: Compilation - May 6, 2020, 1:14:02 PM
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: Parsing headers for Battle_TankEditor
+[2020.05.06-11.14.02:502][898]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\Battle_TankEditor\Development\Battle_TankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: Reflection code generated for Battle_TankEditor in 8.4578492 seconds
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: Building Battle_TankEditor...
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: [Upgrade]
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Battle_TankEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: [Upgrade]
+[2020.05.06-11.14.02:502][898]CompilerResultsLog: Building 9 actions with 8 processes...
+[2020.05.06-11.14.02:502][898]CompilerResultsLog:   [1/9] Tank.cpp
+[2020.05.06-11.14.02:503][898]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\Tank.cpp(29) : error C2065: 'Barrel': undeclared identifier
+[2020.05.06-11.14.02:503][898]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\Tank.cpp(34) : error C2065: 'Barrel': undeclared identifier
+[2020.05.06-11.14.02:503][898]CompilerResultsLog:    C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Private\Tank.cpp(35) : error C2065: 'Barrel': undeclared identifier
+[2020.05.06-11.14.02:503][898]CompilerResultsLog:   [2/9] Battle_Tank.init.gen.cpp
+[2020.05.06-11.14.02:503][898]CompilerResultsLog:   [3/9] TankTrack.cpp
+[2020.05.06-11.14.02:503][898]CompilerResultsLog:   [4/9] Projectile.cpp
+[2020.05.06-11.14.02:503][898]CompilerResultsLog:   [5/9] TankAimingComponent.gen.cpp
+[2020.05.06-11.14.02:503][898]CompilerResultsLog:   [6/9] TankAimingComponent.cpp
+[2020.05.06-11.14.02:503][898]LogMainFrame: MainFrame: Module compiling took 12.344 seconds
+[2020.05.06-11.14.02:503][898]Warning: HotReload failed, recompile failed
+[2020.05.06-11.14.24:199][507]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-11.14.24:203][507]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-11.14.25:139][603]Candidate modules for hot reload:
+[2020.05.06-11.14.25:139][603]  Battle_Tank
+[2020.05.06-11.14.25:139][603]Launching UnrealBuildTool... [F:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Battle_Tank,7100 Win64 Development -TargetType=Editor -Project="C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject" "C:/Users/scbis/Desktop/Programming/Games Projects/Battle_Tank/Battle_Tanks/Battle_Tank/Battle_Tank.uproject"  -IgnoreJunk]
+[2020.05.06-11.14.25:142][603]Warning: Starting HotReload took  0.0s.
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: New page: Compilation - May 6, 2020, 1:14:40 PM
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks).
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: Parsing headers for Battle_TankEditor
+[2020.05.06-11.14.40:822][419]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Battle_Tank.uproject" "C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\Battle_TankEditor\Development\Battle_TankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: Reflection code generated for Battle_TankEditor in 8.5679091 seconds
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: Building Battle_TankEditor...
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: [Upgrade]
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.06-11.14.40:822][419]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Battle_TankEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.06-11.14.40:823][419]CompilerResultsLog: [Upgrade]
+[2020.05.06-11.14.40:823][419]CompilerResultsLog: Building 10 actions with 8 processes...
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:   [1/10] TankPlayerController.cpp
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:   [2/10] Projectile.cpp
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:   [3/10] TankTrack.cpp
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:   [4/10] Tank.gen.cpp
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:   [5/10] Tank.cpp
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:   [6/10] TankAimingComponent.cpp
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:   [7/10] TankAIController.cpp
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:   [8/10] UE4Editor-Battle_Tank-7100.lib
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:      Creating library C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-7100.lib and object C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-7100.exp
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:   [9/10] UE4Editor-Battle_Tank-7100.dll
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:      Creating library C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-7100.suppressed.lib and object C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\UE4Editor-Battle_Tank-7100.suppressed.exp
+[2020.05.06-11.14.40:823][419]CompilerResultsLog:   [10/10] Battle_TankEditor.target
+[2020.05.06-11.14.40:823][419]CompilerResultsLog: Total time in Parallel executor: 5.38 seconds
+[2020.05.06-11.14.40:823][419]CompilerResultsLog: Total execution time: 15.55 seconds
+[2020.05.06-11.14.40:823][419]LogMainFrame: MainFrame: Module compiling took 15.688 seconds
+[2020.05.06-11.14.40:884][419]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.05.06-11.14.40:920][419]LogClass: Could not find existing class Tank in package /Script/Battle_Tank for HotReload, assuming new class
+[2020.05.06-11.14.40:920][419]LogClass: Function Fire is new.
+[2020.05.06-11.14.40:924][419]LogClass: Could not find existing class TankAimingComponent in package /Script/Battle_Tank for HotReload, assuming new class
+[2020.05.06-11.14.40:924][419]LogClass: Function Initialise is new.
+[2020.05.06-11.14.40:941][419]LogClass: EFiringState HotReload.
+[2020.05.06-11.14.40:952][419]LogHotReload: Re-instancing Tank after hot-reload.
+[2020.05.06-11.14.40:962][419]LogProperty: Warning: Serialized Class /Engine/Transient.HOTRELOADED_TankAimingComponent_1 for a property of Class /Script/Battle_Tank.TankAimingComponent. Reference will be nullptred.
+    Property = ObjectProperty /Script/Battle_Tank.Tank:TankAimingComponent
+    Item = HOTRELOADED_TankAimingComponent_1 /Engine/Transient.Tank_BP_C_3:Aiming Component
+[2020.05.06-11.14.40:964][419]LogProperty: Warning: Serialized Class /Engine/Transient.HOTRELOADED_TankAimingComponent_1 for a property of Class /Script/Battle_Tank.TankAimingComponent. Reference will be nullptred.
+    Property = ObjectProperty /Script/Battle_Tank.Tank:TankAimingComponent
+    Item = HOTRELOADED_TankAimingComponent_1 /Game/Levels/Battleground.Battleground:PersistentLevel.REINST_Tank_BP_C_2.Aiming Component
+[2020.05.06-11.14.40:965][419]LogProperty: Warning: Serialized Class /Engine/Transient.HOTRELOADED_TankAimingComponent_1 for a property of Class /Script/Battle_Tank.TankAimingComponent. Reference will be nullptred.
+    Property = ObjectProperty /Script/Battle_Tank.Tank:TankAimingComponent
+    Item = HOTRELOADED_TankAimingComponent_1 /Engine/Transient.World_2:PersistentLevel.REINST_Tank_BP_C_0.Aiming Component
+[2020.05.06-11.14.40:965][419]LogProperty: Warning: Serialized Class /Engine/Transient.HOTRELOADED_TankAimingComponent_1 for a property of Class /Script/Battle_Tank.TankAimingComponent. Reference will be nullptred.
+    Property = ObjectProperty /Script/Battle_Tank.Tank:TankAimingComponent
+    Item = HOTRELOADED_TankAimingComponent_1 /Engine/Transient.World_8:PersistentLevel.REINST_Tank_BP_C_1.Aiming Component
+[2020.05.06-11.14.41:620][419]LogHotReload: Re-instancing TankAimingComponent after hot-reload.
+[2020.05.06-11.14.41:955][419]LogHotReload: Re-instancing TankTrack after hot-reload.
+[2020.05.06-11.14.41:961][419]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.06-11.14.42:255][419]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.294 s
+[2020.05.06-11.14.42:255][419]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.06-11.14.42:255][419]LogOutputDevice: Error: 
+[2020.05.06-11.14.42:255][419]LogOutputDevice: Error: Ensure condition failed: bArchetypeReinstanced [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetReinstanceUtilities.cpp] [Line: 1513]
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: Reinstancing non-actor (/Game/Levels/Battleground.Battleground:PersistentLevel.Tank_BP2_5.LeftTrack); failed to resolve archetype object - property values may be lost.
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: Stack: 
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff84b347d87 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff84ab7d39c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff84ab7b25d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff84ab7a440 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff84ab77427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff84ab7796e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff835ce6b67 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff835ce6ce4 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff835cdf956 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff850ed2b1b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff8511f0097 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff8511d11a6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff8511057b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff8517bc487 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff8517daa1b UE4Editor-Core.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff8517d9ac8 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff835cdbb03 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff835cd9817 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff835cda212 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff835cec4d8 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff8515690b5 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff666e8ad74 UE4Editor.exe!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff666e9c3ec UE4Editor.exe!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff666e9c4ca UE4Editor.exe!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff666eaceae UE4Editor.exe!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff666eafcbe UE4Editor.exe!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff8bb2e7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: [Callstack] 0x00007ff8bc12ce51 ntdll.dll!UnknownFunction []
+[2020.05.06-11.14.42:256][419]LogOutputDevice: Error: 
+[2020.05.06-11.14.42:263][419]LogStats:                SubmitErrorReport -  0.000 s

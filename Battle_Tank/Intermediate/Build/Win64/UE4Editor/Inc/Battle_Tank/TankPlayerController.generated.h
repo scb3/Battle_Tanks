@@ -8,14 +8,35 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class ATank;
 #ifdef BATTLE_TANK_TankPlayerController_generated_h
 #error "TankPlayerController.generated.h already included, missing '#pragma once' in TankPlayerController.h"
 #endif
 #define BATTLE_TANK_TankPlayerController_generated_h
 
 #define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_SPARSE_DATA
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_RPC_WRAPPERS
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_RPC_WRAPPERS_NO_PURE_DECLS
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execGetControlledTank) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(ATank**)Z_Param__Result=P_THIS->GetControlledTank(); \
+		P_NATIVE_END; \
+	}
+
+
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execGetControlledTank) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(ATank**)Z_Param__Result=P_THIS->GetControlledTank(); \
+		P_NATIVE_END; \
+	}
+
+
 #define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATankPlayerController(); \
