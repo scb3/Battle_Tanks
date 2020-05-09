@@ -79,8 +79,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ATank); \
 
 
 #define Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__TankAimingComponent() { return STRUCT_OFFSET(ATank, TankAimingComponent); } \
-	FORCEINLINE static uint32 __PPO__TankMovementComponent() { return STRUCT_OFFSET(ATank, TankMovementComponent); }
+	FORCEINLINE static uint32 __PPO__TankAimingComponent() { return STRUCT_OFFSET(ATank, TankAimingComponent); }
 
 
 #define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_PROLOG

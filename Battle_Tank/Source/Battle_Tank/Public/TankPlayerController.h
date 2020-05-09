@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright SCB Enterprises
 
 #pragma once
 
@@ -8,6 +8,7 @@
 #include "TankPlayerController.generated.h"
 
 class ATank;
+class UTankTankAimingComponent;
 /**
  * 
  */
@@ -24,6 +25,8 @@ public:
 protected:
 	UFUNCTION(BlueprintCallable = "Setup")
 		ATank* GetControlledTank() const;
+	UFUNCTION(BlueprintImplementableEvent, Category = "Setup")
+		void FoundAimingComponent(UTankAimingComponent* AimCompRef);
 
 private:
 	void AimTowardsCrosshair();

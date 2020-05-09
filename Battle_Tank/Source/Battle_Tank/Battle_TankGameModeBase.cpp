@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright SCB Enterprises
 
 #include "Battle_TankGameModeBase.h"
 
