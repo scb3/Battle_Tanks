@@ -13,30 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BATTLE_TANK_Tank_generated_h
 
-#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_SPARSE_DATA
-#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_RPC_WRAPPERS \
- \
-	DECLARE_FUNCTION(execFire) \
-	{ \
-		P_FINISH; \
-		P_NATIVE_BEGIN; \
-		P_THIS->Fire(); \
-		P_NATIVE_END; \
-	}
-
-
-#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
- \
-	DECLARE_FUNCTION(execFire) \
-	{ \
-		P_FINISH; \
-		P_NATIVE_BEGIN; \
-		P_THIS->Fire(); \
-		P_NATIVE_END; \
-	}
-
-
-#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_INCLASS_NO_PURE_DECLS \
+#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_SPARSE_DATA
+#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_RPC_WRAPPERS
+#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATank(); \
 	friend struct Z_Construct_UClass_ATank_Statics; \
@@ -45,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(ATank)
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_INCLASS \
+#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_INCLASS \
 private: \
 	static void StaticRegisterNativesATank(); \
 	friend struct Z_Construct_UClass_ATank_Statics; \
@@ -54,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(ATank)
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_STANDARD_CONSTRUCTORS \
+#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ATank(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATank) \
@@ -67,7 +47,7 @@ private: \
 public:
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_ENHANCED_CONSTRUCTORS \
+#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ATank(ATank&&); \
@@ -78,31 +58,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ATank); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ATank)
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__TankAimingComponent() { return STRUCT_OFFSET(ATank, TankAimingComponent); }
-
-
-#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_PROLOG
-#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_GENERATED_BODY_LEGACY \
+#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_PRIVATE_PROPERTY_OFFSET
+#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_9_PROLOG
+#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_PRIVATE_PROPERTY_OFFSET \
-	Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_SPARSE_DATA \
-	Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_RPC_WRAPPERS \
-	Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_INCLASS \
-	Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_STANDARD_CONSTRUCTORS \
+	Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_PRIVATE_PROPERTY_OFFSET \
+	Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_SPARSE_DATA \
+	Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_RPC_WRAPPERS \
+	Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_INCLASS \
+	Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_GENERATED_BODY \
+#define Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_PRIVATE_PROPERTY_OFFSET \
-	Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_SPARSE_DATA \
-	Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_INCLASS_NO_PURE_DECLS \
-	Battle_Tank_Source_Battle_Tank_Public_Tank_h_15_ENHANCED_CONSTRUCTORS \
+	Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_PRIVATE_PROPERTY_OFFSET \
+	Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_SPARSE_DATA \
+	Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_INCLASS_NO_PURE_DECLS \
+	Battle_Tank_Source_Battle_Tank_Public_Tank_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

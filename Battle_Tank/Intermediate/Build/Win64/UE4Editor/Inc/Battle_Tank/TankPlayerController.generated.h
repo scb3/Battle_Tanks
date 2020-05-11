@@ -8,45 +8,24 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
-class ATank;
 class UTankAimingComponent;
 #ifdef BATTLE_TANK_TankPlayerController_generated_h
 #error "TankPlayerController.generated.h already included, missing '#pragma once' in TankPlayerController.h"
 #endif
 #define BATTLE_TANK_TankPlayerController_generated_h
 
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_SPARSE_DATA
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_RPC_WRAPPERS \
- \
-	DECLARE_FUNCTION(execGetControlledTank) \
-	{ \
-		P_FINISH; \
-		P_NATIVE_BEGIN; \
-		*(ATank**)Z_Param__Result=P_THIS->GetControlledTank(); \
-		P_NATIVE_END; \
-	}
-
-
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
- \
-	DECLARE_FUNCTION(execGetControlledTank) \
-	{ \
-		P_FINISH; \
-		P_NATIVE_BEGIN; \
-		*(ATank**)Z_Param__Result=P_THIS->GetControlledTank(); \
-		P_NATIVE_END; \
-	}
-
-
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_EVENT_PARMS \
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_SPARSE_DATA
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_RPC_WRAPPERS
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_RPC_WRAPPERS_NO_PURE_DECLS
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_EVENT_PARMS \
 	struct TankPlayerController_eventFoundAimingComponent_Parms \
 	{ \
 		UTankAimingComponent* AimCompRef; \
 	};
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_CALLBACK_WRAPPERS
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_INCLASS_NO_PURE_DECLS \
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_CALLBACK_WRAPPERS
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATankPlayerController(); \
 	friend struct Z_Construct_UClass_ATankPlayerController_Statics; \
@@ -55,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(ATankPlayerController)
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_INCLASS \
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_INCLASS \
 private: \
 	static void StaticRegisterNativesATankPlayerController(); \
 	friend struct Z_Construct_UClass_ATankPlayerController_Statics; \
@@ -64,7 +43,7 @@ public: \
 	DECLARE_SERIALIZER(ATankPlayerController)
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_STANDARD_CONSTRUCTORS \
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ATankPlayerController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATankPlayerController) \
@@ -77,7 +56,7 @@ private: \
 public:
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_ENHANCED_CONSTRUCTORS \
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ATankPlayerController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -90,38 +69,38 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ATankPlayerController); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATankPlayerController)
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_PRIVATE_PROPERTY_OFFSET \
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__CrosshairXLocation() { return STRUCT_OFFSET(ATankPlayerController, CrosshairXLocation); } \
 	FORCEINLINE static uint32 __PPO__CrosshairYLocation() { return STRUCT_OFFSET(ATankPlayerController, CrosshairYLocation); } \
 	FORCEINLINE static uint32 __PPO__LineTraceRange() { return STRUCT_OFFSET(ATankPlayerController, LineTraceRange); }
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_15_PROLOG \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_EVENT_PARMS
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_14_PROLOG \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_EVENT_PARMS
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_GENERATED_BODY_LEGACY \
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_PRIVATE_PROPERTY_OFFSET \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_SPARSE_DATA \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_RPC_WRAPPERS \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_CALLBACK_WRAPPERS \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_INCLASS \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_STANDARD_CONSTRUCTORS \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_PRIVATE_PROPERTY_OFFSET \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_SPARSE_DATA \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_RPC_WRAPPERS \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_CALLBACK_WRAPPERS \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_INCLASS \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_GENERATED_BODY \
+#define Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_PRIVATE_PROPERTY_OFFSET \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_SPARSE_DATA \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_CALLBACK_WRAPPERS \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_INCLASS_NO_PURE_DECLS \
-	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_18_ENHANCED_CONSTRUCTORS \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_PRIVATE_PROPERTY_OFFSET \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_SPARSE_DATA \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_CALLBACK_WRAPPERS \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_INCLASS_NO_PURE_DECLS \
+	Battle_Tank_Source_Battle_Tank_Public_TankPlayerController_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
