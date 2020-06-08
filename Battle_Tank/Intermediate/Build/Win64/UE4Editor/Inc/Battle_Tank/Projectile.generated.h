@@ -58,7 +58,11 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AProjectile); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AProjectile)
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_PRIVATE_PROPERTY_OFFSET
+#define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__CollisionMesh() { return STRUCT_OFFSET(AProjectile, CollisionMesh); } \
+	FORCEINLINE static uint32 __PPO__LaunchBlast() { return STRUCT_OFFSET(AProjectile, LaunchBlast); }
+
+
 #define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_10_PROLOG
 #define Battle_Tank_Source_Battle_Tank_Public_Projectile_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

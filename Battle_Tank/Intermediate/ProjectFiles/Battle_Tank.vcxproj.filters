@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Battle_Tank.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E56421DB-4ED7-4E5D-9B11-06967C8E9C55}</UniqueIdentifier>
+      <UniqueIdentifier>{D7E51616-94CE-4AE2-82FC-8F3CBB65B541}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Battle_Tank.Target.cs">
       <Filter>Source</Filter>
@@ -12,9 +12,12 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{A718B445-4210-475A-9823-8249DB2EF33C}</UniqueIdentifier>
+      <UniqueIdentifier>{EDCDB044-F5AB-4801-A7C9-1E7CF8E710B6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultEngine.ini">
@@ -27,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Battle_Tank">
-      <UniqueIdentifier>{60ACC450-DA6A-421B-B2BD-9ED3B100B9C5}</UniqueIdentifier>
+      <UniqueIdentifier>{FC8F056C-4259-4617-9567-7BF77C07BDC7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Battle_Tank\Battle_Tank.Build.cs">
       <Filter>Source\Battle_Tank</Filter>
@@ -45,8 +48,11 @@
       <Filter>Source\Battle_Tank</Filter>
     </ClInclude>
     <Filter Include="Source\Battle_Tank\Private">
-      <UniqueIdentifier>{510FDF4E-F139-476B-8835-860CA7754ACE}</UniqueIdentifier>
+      <UniqueIdentifier>{29BC0E27-4C88-4F92-87C7-937FE6D2A315}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Battle_Tank\Private\Projectile.cpp">
+      <Filter>Source\Battle_Tank\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Battle_Tank\Private\Tank.cpp">
       <Filter>Source\Battle_Tank\Private</Filter>
     </ClCompile>
@@ -59,12 +65,24 @@
     <ClCompile Include="..\..\Source\Battle_Tank\Private\TankBarrel.cpp">
       <Filter>Source\Battle_Tank\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Battle_Tank\Private\TankMovementComponent.cpp">
+      <Filter>Source\Battle_Tank\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Battle_Tank\Private\TankPlayerController.cpp">
       <Filter>Source\Battle_Tank\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Battle_Tank\Private\TankTrack.cpp">
+      <Filter>Source\Battle_Tank\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Battle_Tank\Private\TankTurret.cpp">
+      <Filter>Source\Battle_Tank\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\Battle_Tank\Public">
-      <UniqueIdentifier>{1857DF60-811F-4535-8AB8-BA3D25982DF2}</UniqueIdentifier>
+      <UniqueIdentifier>{3B10AC01-DBDD-4A27-B196-EBAB5711D2C0}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\Battle_Tank\Public\Projectile.h">
+      <Filter>Source\Battle_Tank\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\Battle_Tank\Public\Tank.h">
       <Filter>Source\Battle_Tank\Public</Filter>
     </ClInclude>
@@ -77,36 +95,17 @@
     <ClInclude Include="..\..\Source\Battle_Tank\Public\TankBarrel.h">
       <Filter>Source\Battle_Tank\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\Battle_Tank\Public\TankMovementComponent.h">
+      <Filter>Source\Battle_Tank\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\Battle_Tank\Public\TankPlayerController.h">
-      <Filter>Source\Battle_Tank\Public</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\Battle_Tank\Public\TankTurret.h">
-      <Filter>Source\Battle_Tank\Public</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\Battle_Tank\Public\Projectile.h">
       <Filter>Source\Battle_Tank\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\Battle_Tank\Public\TankTrack.h">
       <Filter>Source\Battle_Tank\Public</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Source\Battle_Tank\Public\TankMovementComponent.h">
+    <ClInclude Include="..\..\Source\Battle_Tank\Public\TankTurret.h">
       <Filter>Source\Battle_Tank\Public</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\Battle_Tank\Private\TankTurret.cpp">
-      <Filter>Source\Battle_Tank\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\Battle_Tank\Private\Projectile.cpp">
-      <Filter>Source\Battle_Tank\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\Battle_Tank\Private\TankTrack.cpp">
-      <Filter>Source\Battle_Tank\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\Battle_Tank\Private\TankMovementComponent.cpp">
-      <Filter>Source\Battle_Tank\Private</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

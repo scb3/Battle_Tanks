@@ -60,7 +60,10 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ATankAIController); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATankAIController)
 
 
-#define Battle_Tank_Source_Battle_Tank_Public_TankAIController_h_16_PRIVATE_PROPERTY_OFFSET
+#define Battle_Tank_Source_Battle_Tank_Public_TankAIController_h_16_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__AcceptanceRadius() { return STRUCT_OFFSET(ATankAIController, AcceptanceRadius); }
+
+
 #define Battle_Tank_Source_Battle_Tank_Public_TankAIController_h_13_PROLOG
 #define Battle_Tank_Source_Battle_Tank_Public_TankAIController_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

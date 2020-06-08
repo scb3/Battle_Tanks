@@ -26,6 +26,15 @@ class UTankTrack;
 		P_NATIVE_END; \
 	} \
  \
+	DECLARE_FUNCTION(execIntendMoveForward) \
+	{ \
+		P_GET_PROPERTY(UFloatProperty,Z_Param_Throw); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->IntendMoveForward(Z_Param_Throw); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execInitialise) \
 	{ \
 		P_GET_OBJECT(UTankTrack,Z_Param_LeftTrackToSet); \
@@ -33,15 +42,6 @@ class UTankTrack;
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
 		P_THIS->Initialise(Z_Param_LeftTrackToSet,Z_Param_RightTrackToSet); \
-		P_NATIVE_END; \
-	} \
- \
-	DECLARE_FUNCTION(execIntendMoveForward) \
-	{ \
-		P_GET_PROPERTY(UFloatProperty,Z_Param_Throw); \
-		P_FINISH; \
-		P_NATIVE_BEGIN; \
-		P_THIS->IntendMoveForward(Z_Param_Throw); \
 		P_NATIVE_END; \
 	}
 
@@ -57,6 +57,15 @@ class UTankTrack;
 		P_NATIVE_END; \
 	} \
  \
+	DECLARE_FUNCTION(execIntendMoveForward) \
+	{ \
+		P_GET_PROPERTY(UFloatProperty,Z_Param_Throw); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->IntendMoveForward(Z_Param_Throw); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execInitialise) \
 	{ \
 		P_GET_OBJECT(UTankTrack,Z_Param_LeftTrackToSet); \
@@ -64,15 +73,6 @@ class UTankTrack;
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
 		P_THIS->Initialise(Z_Param_LeftTrackToSet,Z_Param_RightTrackToSet); \
-		P_NATIVE_END; \
-	} \
- \
-	DECLARE_FUNCTION(execIntendMoveForward) \
-	{ \
-		P_GET_PROPERTY(UFloatProperty,Z_Param_Throw); \
-		P_FINISH; \
-		P_NATIVE_BEGIN; \
-		P_THIS->IntendMoveForward(Z_Param_Throw); \
 		P_NATIVE_END; \
 	}
 

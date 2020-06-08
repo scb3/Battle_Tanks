@@ -14,3 +14,9 @@ C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battl
 C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankBarrel.generated.h
 C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Source\Battle_Tank\Public\TankTurret.h
 C:\Users\scbis\Desktop\Programming\Games Projects\Battle_Tank\Battle_Tanks\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\TankTurret.generated.h
+F:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+F:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+F:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h

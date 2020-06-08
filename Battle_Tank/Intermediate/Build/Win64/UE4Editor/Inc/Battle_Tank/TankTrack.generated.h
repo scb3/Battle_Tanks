@@ -8,6 +8,10 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UPrimitiveComponent;
+class AActor;
+struct FVector;
+struct FHitResult;
 #ifdef BATTLE_TANK_TankTrack_generated_h
 #error "TankTrack.generated.h already included, missing '#pragma once' in TankTrack.h"
 #endif
@@ -15,6 +19,19 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define Battle_Tank_Source_Battle_Tank_Public_TankTrack_h_15_SPARSE_DATA
 #define Battle_Tank_Source_Battle_Tank_Public_TankTrack_h_15_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnHit) \
+	{ \
+		P_GET_OBJECT(UPrimitiveComponent,Z_Param_HitComponent); \
+		P_GET_OBJECT(AActor,Z_Param_OtherActor); \
+		P_GET_OBJECT(UPrimitiveComponent,Z_Param_OtherComponent); \
+		P_GET_STRUCT(FVector,Z_Param_NormalImpulse); \
+		P_GET_STRUCT_REF(FHitResult,Z_Param_Out_Hit); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnHit(Z_Param_HitComponent,Z_Param_OtherActor,Z_Param_OtherComponent,Z_Param_NormalImpulse,Z_Param_Out_Hit); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execSetThrottle) \
 	{ \
@@ -27,6 +44,19 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 
 #define Battle_Tank_Source_Battle_Tank_Public_TankTrack_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnHit) \
+	{ \
+		P_GET_OBJECT(UPrimitiveComponent,Z_Param_HitComponent); \
+		P_GET_OBJECT(AActor,Z_Param_OtherActor); \
+		P_GET_OBJECT(UPrimitiveComponent,Z_Param_OtherComponent); \
+		P_GET_STRUCT(FVector,Z_Param_NormalImpulse); \
+		P_GET_STRUCT_REF(FHitResult,Z_Param_Out_Hit); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnHit(Z_Param_HitComponent,Z_Param_OtherActor,Z_Param_OtherComponent,Z_Param_NormalImpulse,Z_Param_Out_Hit); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execSetThrottle) \
 	{ \
@@ -58,7 +88,7 @@ public: \
 
 #define Battle_Tank_Source_Battle_Tank_Public_TankTrack_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API UTankTrack(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	NO_API UTankTrack(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UTankTrack) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UTankTrack); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UTankTrack); \
@@ -70,8 +100,6 @@ public:
 
 
 #define Battle_Tank_Source_Battle_Tank_Public_TankTrack_h_15_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API UTankTrack(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UTankTrack(UTankTrack&&); \
@@ -79,7 +107,7 @@ private: \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UTankTrack); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UTankTrack); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UTankTrack)
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UTankTrack)
 
 
 #define Battle_Tank_Source_Battle_Tank_Public_TankTrack_h_15_PRIVATE_PROPERTY_OFFSET
